@@ -1,0 +1,3806 @@
+Test case: OPEN scandemo 0
+scandemo.dat
+Status PASS: 
+
+Test case: NON_NDX_SEARCH Phone-of-1011 25
+Status FAIL: Num I/O not matching for 1011... Expected:25 Got:243
+
+
+Test case: NON_NDX_SEARCH Phone-of-1014 19
+Status FAIL: Num I/O not matching for 1014... Expected:19 Got:185
+
+
+Test case: NON_NDX_SEARCH Phone-of-1044 91
+Status FAIL: Num I/O not matching for 1044... Expected:91 Got:907
+
+
+Test case: NON_NDX_SEARCH Phone-of-1046 24
+Status FAIL: Num I/O not matching for 1046... Expected:24 Got:238
+
+
+Test case: NON_NDX_SEARCH Phone-of-1054 17
+Status FAIL: Num I/O not matching for 1054... Expected:17 Got:170
+
+
+Test case: NON_NDX_SEARCH Phone-of-1084 14
+Status FAIL: Num I/O not matching for 1084... Expected:14 Got:133
+
+
+Test case: NON_NDX_SEARCH Phone-of-1099 25
+Status FAIL: Num I/O not matching for 1099... Expected:25 Got:248
+
+
+Test case: NON_NDX_SEARCH Phone-of-1102 21
+Status FAIL: Num I/O not matching for 1102... Expected:21 Got:209
+
+
+Test case: NON_NDX_SEARCH Phone-of-1103 7
+Status FAIL: Num I/O not matching for 1103... Expected:7 Got:61
+
+
+Test case: NON_NDX_SEARCH Phone-of-1111 93
+Status FAIL: Num I/O not matching for 1111... Expected:93 Got:923
+
+
+Test case: NON_NDX_SEARCH Phone-of-1129 14
+Status FAIL: Num I/O not matching for 1129... Expected:14 Got:140
+
+
+Test case: NON_NDX_SEARCH Phone-of-1132 46
+Status FAIL: Num I/O not matching for 1132... Expected:46 Got:459
+
+
+Test case: NON_NDX_SEARCH Phone-of-1134 10
+Status FAIL: Num I/O not matching for 1134... Expected:10 Got:94
+
+
+Test case: NON_NDX_SEARCH Phone-of-1143 5
+Status FAIL: Num I/O not matching for 1143... Expected:5 Got:47
+
+
+Test case: NON_NDX_SEARCH Phone-of-1152 45
+Status FAIL: Num I/O not matching for 1152... Expected:45 Got:443
+
+
+Test case: NON_NDX_SEARCH Phone-of-1153 73
+Status FAIL: Num I/O not matching for 1153... Expected:73 Got:724
+
+
+Test case: NON_NDX_SEARCH Phone-of-1155 3
+Status FAIL: Num I/O not matching for 1155... Expected:3 Got:26
+
+
+Test case: NON_NDX_SEARCH Phone-of-1158 38
+Status FAIL: Num I/O not matching for 1158... Expected:38 Got:373
+
+
+Test case: NON_NDX_SEARCH Phone-of-1164 94
+Status FAIL: Num I/O not matching for 1164... Expected:94 Got:937
+
+
+Test case: NON_NDX_SEARCH Phone-of-1184 48
+Status FAIL: Num I/O not matching for 1184... Expected:48 Got:480
+
+
+Test case: NON_NDX_SEARCH Phone-of-1191 40
+Status FAIL: Num I/O not matching for 1191... Expected:40 Got:398
+
+
+Test case: NON_NDX_SEARCH Phone-of-1194 23
+Status FAIL: Num I/O not matching for 1194... Expected:23 Got:230
+
+
+Test case: NON_NDX_SEARCH Phone-of-1197 78
+Status FAIL: Num I/O not matching for 1197... Expected:78 Got:779
+
+
+Test case: NON_NDX_SEARCH Phone-of-1205 40
+Status FAIL: Num I/O not matching for 1205... Expected:40 Got:393
+
+
+Test case: NON_NDX_SEARCH Phone-of-1220 51
+Status FAIL: Num I/O not matching for 1220... Expected:51 Got:502
+
+
+Test case: NON_NDX_SEARCH Phone-of-1234 24
+Status FAIL: Num I/O not matching for 1234... Expected:24 Got:235
+
+
+Test case: NON_NDX_SEARCH Phone-of-1241 93
+Status FAIL: Num I/O not matching for 1241... Expected:93 Got:926
+
+
+Test case: NON_NDX_SEARCH Phone-of-1251 14
+Status FAIL: Num I/O not matching for 1251... Expected:14 Got:137
+
+
+Test case: NON_NDX_SEARCH Phone-of-1275 69
+Status FAIL: Num I/O not matching for 1275... Expected:69 Got:681
+
+
+Test case: NON_NDX_SEARCH Phone-of-1279 24
+Status FAIL: Num I/O not matching for 1279... Expected:24 Got:236
+
+
+Test case: NON_NDX_SEARCH Phone-of-1281 76
+Status FAIL: Num I/O not matching for 1281... Expected:76 Got:752
+
+
+Test case: NON_NDX_SEARCH Phone-of-1306 16
+Status FAIL: Num I/O not matching for 1306... Expected:16 Got:160
+
+
+Test case: NON_NDX_SEARCH Phone-of-1323 28
+Status FAIL: Num I/O not matching for 1323... Expected:28 Got:280
+
+
+Test case: NON_NDX_SEARCH Phone-of-1331 85
+Status FAIL: Num I/O not matching for 1331... Expected:85 Got:847
+
+
+Test case: NON_NDX_SEARCH Phone-of-1333 5
+Status FAIL: Num I/O not matching for 1333... Expected:5 Got:48
+
+
+Test case: NON_NDX_SEARCH Phone-of-1339 66
+Status FAIL: Num I/O not matching for 1339... Expected:66 Got:660
+
+
+Test case: NON_NDX_SEARCH Phone-of-1350 35
+Status FAIL: Num I/O not matching for 1350... Expected:35 Got:349
+
+
+Test case: NON_NDX_SEARCH Phone-of-1352 90
+Status FAIL: Num I/O not matching for 1352... Expected:90 Got:899
+
+
+Test case: NON_NDX_SEARCH Phone-of-1356 60
+Status FAIL: Num I/O not matching for 1356... Expected:60 Got:593
+
+
+Test case: NON_NDX_SEARCH Phone-of-1362 91
+Status FAIL: Num I/O not matching for 1362... Expected:91 Got:905
+
+
+Test case: NON_NDX_SEARCH Phone-of-1363 63
+Status FAIL: Num I/O not matching for 1363... Expected:63 Got:625
+
+
+Test case: NON_NDX_SEARCH Phone-of-1390 27
+Status FAIL: Num I/O not matching for 1390... Expected:27 Got:267
+
+
+Test case: NON_NDX_SEARCH Phone-of-1402 12
+Status FAIL: Num I/O not matching for 1402... Expected:12 Got:114
+
+
+Test case: NON_NDX_SEARCH Phone-of-1412 88
+Status FAIL: Num I/O not matching for 1412... Expected:88 Got:877
+
+
+Test case: NON_NDX_SEARCH Phone-of-1433 6
+Status FAIL: Num I/O not matching for 1433... Expected:6 Got:59
+
+
+Test case: NON_NDX_SEARCH Phone-of-1441 45
+Status FAIL: Num I/O not matching for 1441... Expected:45 Got:442
+
+
+Test case: NON_NDX_SEARCH Phone-of-1450 33
+Status FAIL: Num I/O not matching for 1450... Expected:33 Got:326
+
+
+Test case: NON_NDX_SEARCH Phone-of-1452 81
+Status FAIL: Num I/O not matching for 1452... Expected:81 Got:803
+
+
+Test case: NON_NDX_SEARCH Phone-of-1456 73
+Status FAIL: Num I/O not matching for 1456... Expected:73 Got:726
+
+
+Test case: NON_NDX_SEARCH Phone-of-1458 42
+Status FAIL: Num I/O not matching for 1458... Expected:42 Got:415
+
+
+Test case: NON_NDX_SEARCH Phone-of-1467 30
+Status FAIL: Num I/O not matching for 1467... Expected:30 Got:295
+
+
+Test case: NON_NDX_SEARCH Phone-of-1477 51
+Status FAIL: Num I/O not matching for 1477... Expected:51 Got:508
+
+
+Test case: NON_NDX_SEARCH Phone-of-1478 44
+Status FAIL: Num I/O not matching for 1478... Expected:44 Got:437
+
+
+Test case: NON_NDX_SEARCH Phone-of-1493 86
+Status FAIL: Num I/O not matching for 1493... Expected:86 Got:858
+
+
+Test case: NON_NDX_SEARCH Phone-of-1494 32
+Status FAIL: Num I/O not matching for 1494... Expected:32 Got:320
+
+
+Test case: NON_NDX_SEARCH Phone-of-1518 79
+Status FAIL: Num I/O not matching for 1518... Expected:79 Got:783
+
+
+Test case: NON_NDX_SEARCH Phone-of-1520 11
+Status FAIL: Num I/O not matching for 1520... Expected:11 Got:107
+
+
+Test case: NON_NDX_SEARCH Phone-of-1527 46
+Status FAIL: Num I/O not matching for 1527... Expected:46 Got:453
+
+
+Test case: NON_NDX_SEARCH Phone-of-1532 92
+Status FAIL: Num I/O not matching for 1532... Expected:92 Got:913
+
+
+Test case: NON_NDX_SEARCH Phone-of-1533 57
+Status FAIL: Num I/O not matching for 1533... Expected:57 Got:567
+
+
+Test case: NON_NDX_SEARCH Phone-of-1539 20
+Status FAIL: Num I/O not matching for 1539... Expected:20 Got:199
+
+
+Test case: NON_NDX_SEARCH Phone-of-1548 4
+Status FAIL: Num I/O not matching for 1548... Expected:4 Got:37
+
+
+Test case: NON_NDX_SEARCH Phone-of-1553 73
+Status FAIL: Num I/O not matching for 1553... Expected:73 Got:722
+
+
+Test case: NON_NDX_SEARCH Phone-of-1555 16
+Status FAIL: Num I/O not matching for 1555... Expected:16 Got:158
+
+
+Test case: NON_NDX_SEARCH Phone-of-1570 52
+Status FAIL: Num I/O not matching for 1570... Expected:52 Got:518
+
+
+Test case: NON_NDX_SEARCH Phone-of-1575 29
+Status FAIL: Num I/O not matching for 1575... Expected:29 Got:281
+
+
+Test case: NON_NDX_SEARCH Phone-of-1577 31
+Status FAIL: Num I/O not matching for 1577... Expected:31 Got:301
+
+
+Test case: NON_NDX_SEARCH Phone-of-1605 90
+Status FAIL: Num I/O not matching for 1605... Expected:90 Got:894
+
+
+Test case: NON_NDX_SEARCH Phone-of-1610 74
+Status FAIL: Num I/O not matching for 1610... Expected:74 Got:735
+
+
+Test case: NON_NDX_SEARCH Phone-of-1614 89
+Status FAIL: Num I/O not matching for 1614... Expected:89 Got:889
+
+
+Test case: NON_NDX_SEARCH Phone-of-1627 10
+Status FAIL: Num I/O not matching for 1627... Expected:10 Got:97
+
+
+Test case: NON_NDX_SEARCH Phone-of-1638 62
+Status FAIL: Num I/O not matching for 1638... Expected:62 Got:616
+
+
+Test case: NON_NDX_SEARCH Phone-of-1642 81
+Status FAIL: Num I/O not matching for 1642... Expected:81 Got:804
+
+
+Test case: NON_NDX_SEARCH Phone-of-1645 28
+Status FAIL: Num I/O not matching for 1645... Expected:28 Got:275
+
+
+Test case: NON_NDX_SEARCH Phone-of-1656 7
+Status FAIL: Num I/O not matching for 1656... Expected:7 Got:68
+
+
+Test case: NON_NDX_SEARCH Phone-of-1657 84
+Status FAIL: Num I/O not matching for 1657... Expected:84 Got:836
+
+
+Test case: NON_NDX_SEARCH Phone-of-1672 41
+Status FAIL: Num I/O not matching for 1672... Expected:41 Got:401
+
+
+Test case: NON_NDX_SEARCH Phone-of-1673 32
+Status FAIL: Num I/O not matching for 1673... Expected:32 Got:317
+
+
+Test case: NON_NDX_SEARCH Phone-of-1689 61
+Status FAIL: Num I/O not matching for 1689... Expected:61 Got:604
+
+
+Test case: NON_NDX_SEARCH Phone-of-1694 12
+Status FAIL: Num I/O not matching for 1694... Expected:12 Got:111
+
+
+Test case: NON_NDX_SEARCH Phone-of-1725 24
+Status FAIL: Num I/O not matching for 1725... Expected:24 Got:240
+
+
+Test case: NON_NDX_SEARCH Phone-of-1732 55
+Status FAIL: Num I/O not matching for 1732... Expected:55 Got:546
+
+
+Test case: NON_NDX_SEARCH Phone-of-1735 68
+Status FAIL: Num I/O not matching for 1735... Expected:68 Got:677
+
+
+Test case: NON_NDX_SEARCH Phone-of-1738 53
+Status FAIL: Num I/O not matching for 1738... Expected:53 Got:523
+
+
+Test case: NON_NDX_SEARCH Phone-of-1747 3
+Status FAIL: Num I/O not matching for 1747... Expected:3 Got:29
+
+
+Test case: NON_NDX_SEARCH Phone-of-1755 47
+Status FAIL: Num I/O not matching for 1755... Expected:47 Got:466
+
+
+Test case: NON_NDX_SEARCH Phone-of-1764 77
+Status FAIL: Num I/O not matching for 1764... Expected:77 Got:768
+
+
+Test case: NON_NDX_SEARCH Phone-of-1769 26
+Status FAIL: Num I/O not matching for 1769... Expected:26 Got:251
+
+
+Test case: NON_NDX_SEARCH Phone-of-1793 38
+Status FAIL: Num I/O not matching for 1793... Expected:38 Got:372
+
+
+Test case: NON_NDX_SEARCH Phone-of-1799 60
+Status FAIL: Num I/O not matching for 1799... Expected:60 Got:600
+
+
+Test case: NON_NDX_SEARCH Phone-of-1805 79
+Status FAIL: Num I/O not matching for 1805... Expected:79 Got:782
+
+
+Test case: NON_NDX_SEARCH Phone-of-1815 77
+Status FAIL: Num I/O not matching for 1815... Expected:77 Got:763
+
+
+Test case: NON_NDX_SEARCH Phone-of-1816 92
+Status FAIL: Num I/O not matching for 1816... Expected:92 Got:912
+
+
+Test case: NON_NDX_SEARCH Phone-of-1848 70
+Status FAIL: Num I/O not matching for 1848... Expected:70 Got:691
+
+
+Test case: NON_NDX_SEARCH Phone-of-1856 93
+Status FAIL: Num I/O not matching for 1856... Expected:93 Got:930
+
+
+Test case: NON_NDX_SEARCH Phone-of-1872 51
+Status FAIL: Num I/O not matching for 1872... Expected:51 Got:510
+
+
+Test case: NON_NDX_SEARCH Phone-of-1880 57
+Status FAIL: Num I/O not matching for 1880... Expected:57 Got:561
+
+
+Test case: NON_NDX_SEARCH Phone-of-1907 75
+Status FAIL: Num I/O not matching for 1907... Expected:75 Got:743
+
+
+Test case: NON_NDX_SEARCH Phone-of-1927 93
+Status FAIL: Num I/O not matching for 1927... Expected:93 Got:925
+
+
+Test case: NON_NDX_SEARCH Phone-of-1941 87
+Status FAIL: Num I/O not matching for 1941... Expected:87 Got:864
+
+
+Test case: NON_NDX_SEARCH Phone-of-1942 51
+Status FAIL: Num I/O not matching for 1942... Expected:51 Got:504
+
+
+Test case: NON_NDX_SEARCH Phone-of-1949 2
+Status FAIL: Num I/O not matching for 1949... Expected:2 Got:12
+
+
+Test case: NON_NDX_SEARCH Phone-of-1951 20
+Status FAIL: Num I/O not matching for 1951... Expected:20 Got:193
+
+
+Test case: NON_NDX_SEARCH Phone-of-1958 20
+Status FAIL: Num I/O not matching for 1958... Expected:20 Got:191
+
+
+Test case: NON_NDX_SEARCH Phone-of-1964 81
+Status FAIL: Num I/O not matching for 1964... Expected:81 Got:802
+
+
+Test case: NON_NDX_SEARCH Phone-of-1996 70
+Status FAIL: Num I/O not matching for 1996... Expected:70 Got:692
+
+
+Test case: NON_NDX_SEARCH Phone-of-2002 33
+Status FAIL: Num I/O not matching for 2002... Expected:33 Got:330
+
+
+Test case: NON_NDX_SEARCH Phone-of-2005 51
+Status FAIL: Num I/O not matching for 2005... Expected:51 Got:503
+
+
+Test case: NON_NDX_SEARCH Phone-of-2015 31
+Status FAIL: Num I/O not matching for 2015... Expected:31 Got:303
+
+
+Test case: NON_NDX_SEARCH Phone-of-2025 35
+Status FAIL: Num I/O not matching for 2025... Expected:35 Got:348
+
+
+Test case: NON_NDX_SEARCH Phone-of-2031 22
+Status FAIL: Num I/O not matching for 2031... Expected:22 Got:218
+
+
+Test case: NON_NDX_SEARCH Phone-of-2043 46
+Status FAIL: Num I/O not matching for 2043... Expected:46 Got:456
+
+
+Test case: NON_NDX_SEARCH Phone-of-2044 29
+Status FAIL: Num I/O not matching for 2044... Expected:29 Got:289
+
+
+Test case: NON_NDX_SEARCH Phone-of-2047 63
+Status FAIL: Num I/O not matching for 2047... Expected:63 Got:626
+
+
+Test case: NON_NDX_SEARCH Phone-of-2048 40
+Status FAIL: Num I/O not matching for 2048... Expected:40 Got:391
+
+
+Test case: NON_NDX_SEARCH Phone-of-2051 30
+Status FAIL: Num I/O not matching for 2051... Expected:30 Got:298
+
+
+Test case: NON_NDX_SEARCH Phone-of-2054 9
+Status FAIL: Num I/O not matching for 2054... Expected:9 Got:82
+
+
+Test case: NON_NDX_SEARCH Phone-of-2062 62
+Status FAIL: Num I/O not matching for 2062... Expected:62 Got:612
+
+
+Test case: NON_NDX_SEARCH Phone-of-2075 4
+Status FAIL: Num I/O not matching for 2075... Expected:4 Got:38
+
+
+Test case: NON_NDX_SEARCH Phone-of-2088 67
+Status FAIL: Num I/O not matching for 2088... Expected:67 Got:666
+
+
+Test case: NON_NDX_SEARCH Phone-of-2094 41
+Status FAIL: Num I/O not matching for 2094... Expected:41 Got:402
+
+
+Test case: NON_NDX_SEARCH Phone-of-2095 69
+Status FAIL: Num I/O not matching for 2095... Expected:69 Got:685
+
+
+Test case: NON_NDX_SEARCH Phone-of-2112 70
+Status FAIL: Num I/O not matching for 2112... Expected:70 Got:698
+
+
+Test case: NON_NDX_SEARCH Phone-of-2125 41
+Status FAIL: Num I/O not matching for 2125... Expected:41 Got:410
+
+
+Test case: NON_NDX_SEARCH Phone-of-2139 68
+Status FAIL: Num I/O not matching for 2139... Expected:68 Got:673
+
+
+Test case: NON_NDX_SEARCH Phone-of-2150 7
+Status FAIL: Num I/O not matching for 2150... Expected:7 Got:62
+
+
+Test case: NON_NDX_SEARCH Phone-of-2165 23
+Status FAIL: Num I/O not matching for 2165... Expected:23 Got:225
+
+
+Test case: NON_NDX_SEARCH Phone-of-2188 86
+Status FAIL: Num I/O not matching for 2188... Expected:86 Got:855
+
+
+Test case: NON_NDX_SEARCH Phone-of-2197 21
+Status FAIL: Num I/O not matching for 2197... Expected:21 Got:207
+
+
+Test case: NON_NDX_SEARCH Phone-of-2227 25
+Status FAIL: Num I/O not matching for 2227... Expected:25 Got:247
+
+
+Test case: NON_NDX_SEARCH Phone-of-2244 64
+Status FAIL: Num I/O not matching for 2244... Expected:64 Got:632
+
+
+Test case: NON_NDX_SEARCH Phone-of-2247 15
+Status FAIL: Num I/O not matching for 2247... Expected:15 Got:141
+
+
+Test case: NON_NDX_SEARCH Phone-of-2280 43
+Status FAIL: Num I/O not matching for 2280... Expected:43 Got:425
+
+
+Test case: NON_NDX_SEARCH Phone-of-2302 32
+Status FAIL: Num I/O not matching for 2302... Expected:32 Got:311
+
+
+Test case: NON_NDX_SEARCH Phone-of-2327 37
+Status FAIL: Num I/O not matching for 2327... Expected:37 Got:366
+
+
+Test case: NON_NDX_SEARCH Phone-of-2330 50
+Status FAIL: Num I/O not matching for 2330... Expected:50 Got:499
+
+
+Test case: NON_NDX_SEARCH Phone-of-2336 48
+Status FAIL: Num I/O not matching for 2336... Expected:48 Got:474
+
+
+Test case: NON_NDX_SEARCH Phone-of-2337 4
+Status FAIL: Num I/O not matching for 2337... Expected:4 Got:39
+
+
+Test case: NON_NDX_SEARCH Phone-of-2353 71
+Status FAIL: Num I/O not matching for 2353... Expected:71 Got:710
+
+
+Test case: NON_NDX_SEARCH Phone-of-2369 50
+Status FAIL: Num I/O not matching for 2369... Expected:50 Got:500
+
+
+Test case: NON_NDX_SEARCH Phone-of-2373 37
+Status FAIL: Num I/O not matching for 2373... Expected:37 Got:368
+
+
+Test case: NON_NDX_SEARCH Phone-of-2377 41
+Status FAIL: Num I/O not matching for 2377... Expected:41 Got:405
+
+
+Test case: NON_NDX_SEARCH Phone-of-2379 77
+Status FAIL: Num I/O not matching for 2379... Expected:77 Got:766
+
+
+Test case: NON_NDX_SEARCH Phone-of-2384 74
+Status FAIL: Num I/O not matching for 2384... Expected:74 Got:739
+
+
+Test case: NON_NDX_SEARCH Phone-of-2389 1
+Status FAIL: Num I/O not matching for 2389... Expected:1 Got:4
+
+
+Test case: NON_NDX_SEARCH Phone-of-2412 4
+Status FAIL: Num I/O not matching for 2412... Expected:4 Got:32
+
+
+Test case: NON_NDX_SEARCH Phone-of-2414 14
+Status FAIL: Num I/O not matching for 2414... Expected:14 Got:135
+
+
+Test case: NON_NDX_SEARCH Phone-of-2416 88
+Status FAIL: Num I/O not matching for 2416... Expected:88 Got:876
+
+
+Test case: NON_NDX_SEARCH Phone-of-2426 88
+Status FAIL: Num I/O not matching for 2426... Expected:88 Got:873
+
+
+Test case: NON_NDX_SEARCH Phone-of-2437 33
+Status FAIL: Num I/O not matching for 2437... Expected:33 Got:328
+
+
+Test case: NON_NDX_SEARCH Phone-of-2438 20
+Status FAIL: Num I/O not matching for 2438... Expected:20 Got:196
+
+
+Test case: NON_NDX_SEARCH Phone-of-2442 41
+Status FAIL: Num I/O not matching for 2442... Expected:41 Got:406
+
+
+Test case: NON_NDX_SEARCH Phone-of-2446 61
+Status FAIL: Num I/O not matching for 2446... Expected:61 Got:601
+
+
+Test case: NON_NDX_SEARCH Phone-of-2452 7
+Status FAIL: Num I/O not matching for 2452... Expected:7 Got:63
+
+
+Test case: NON_NDX_SEARCH Phone-of-2453 43
+Status FAIL: Num I/O not matching for 2453... Expected:43 Got:427
+
+
+Test case: NON_NDX_SEARCH Phone-of-2474 35
+Status FAIL: Num I/O not matching for 2474... Expected:35 Got:341
+
+
+Test case: NON_NDX_SEARCH Phone-of-2477 4
+Status FAIL: Num I/O not matching for 2477... Expected:4 Got:34
+
+
+Test case: NON_NDX_SEARCH Phone-of-2481 82
+Status FAIL: Num I/O not matching for 2481... Expected:82 Got:818
+
+
+Test case: NON_NDX_SEARCH Phone-of-2485 9
+Status FAIL: Num I/O not matching for 2485... Expected:9 Got:85
+
+
+Test case: NON_NDX_SEARCH Phone-of-2494 62
+Status FAIL: Num I/O not matching for 2494... Expected:62 Got:619
+
+
+Test case: NON_NDX_SEARCH Phone-of-2503 22
+Status FAIL: Num I/O not matching for 2503... Expected:22 Got:216
+
+
+Test case: NON_NDX_SEARCH Phone-of-2504 20
+Status FAIL: Num I/O not matching for 2504... Expected:20 Got:192
+
+
+Test case: NON_NDX_SEARCH Phone-of-2527 1
+Status FAIL: Num I/O not matching for 2527... Expected:1 Got:10
+
+
+Test case: NON_NDX_SEARCH Phone-of-2529 9
+Status FAIL: Num I/O not matching for 2529... Expected:9 Got:81
+
+
+Test case: NON_NDX_SEARCH Phone-of-2541 26
+Status FAIL: Num I/O not matching for 2541... Expected:26 Got:257
+
+
+Test case: NON_NDX_SEARCH Phone-of-2553 58
+Status FAIL: Num I/O not matching for 2553... Expected:58 Got:577
+
+
+Test case: NON_NDX_SEARCH Phone-of-2567 55
+Status FAIL: Num I/O not matching for 2567... Expected:55 Got:545
+
+
+Test case: NON_NDX_SEARCH Phone-of-2577 75
+Status FAIL: Num I/O not matching for 2577... Expected:75 Got:746
+
+
+Test case: NON_NDX_SEARCH Phone-of-2584 36
+Status FAIL: Num I/O not matching for 2584... Expected:36 Got:358
+
+
+Test case: NON_NDX_SEARCH Phone-of-2587 34
+Status FAIL: Num I/O not matching for 2587... Expected:34 Got:331
+
+
+Test case: NON_NDX_SEARCH Phone-of-2588 73
+Status FAIL: Num I/O not matching for 2588... Expected:73 Got:730
+
+
+Test case: NON_NDX_SEARCH Phone-of-2600 49
+Status FAIL: Num I/O not matching for 2600... Expected:49 Got:487
+
+
+Test case: NON_NDX_SEARCH Phone-of-2607 51
+Status FAIL: Num I/O not matching for 2607... Expected:51 Got:507
+
+
+Test case: NON_NDX_SEARCH Phone-of-2609 90
+Status FAIL: Num I/O not matching for 2609... Expected:90 Got:896
+
+
+Test case: NON_NDX_SEARCH Phone-of-2622 27
+Status FAIL: Num I/O not matching for 2622... Expected:27 Got:270
+
+
+Test case: NON_NDX_SEARCH Phone-of-2630 7
+Status FAIL: Num I/O not matching for 2630... Expected:7 Got:65
+
+
+Test case: NON_NDX_SEARCH Phone-of-2643 43
+Status FAIL: Num I/O not matching for 2643... Expected:43 Got:429
+
+
+Test case: NON_NDX_SEARCH Phone-of-2651 19
+Status FAIL: Num I/O not matching for 2651... Expected:19 Got:182
+
+
+Test case: NON_NDX_SEARCH Phone-of-2653 71
+Status FAIL: Num I/O not matching for 2653... Expected:71 Got:706
+
+
+Test case: NON_NDX_SEARCH Phone-of-2664 21
+Status FAIL: Num I/O not matching for 2664... Expected:21 Got:210
+
+
+Test case: NON_NDX_SEARCH Phone-of-2668 60
+Status FAIL: Num I/O not matching for 2668... Expected:60 Got:599
+
+
+Test case: NON_NDX_SEARCH Phone-of-2670 64
+Status FAIL: Num I/O not matching for 2670... Expected:64 Got:631
+
+
+Test case: NON_NDX_SEARCH Phone-of-2680 84
+Status FAIL: Num I/O not matching for 2680... Expected:84 Got:839
+
+
+Test case: NON_NDX_SEARCH Phone-of-2683 19
+Status FAIL: Num I/O not matching for 2683... Expected:19 Got:187
+
+
+Test case: NON_NDX_SEARCH Phone-of-2696 79
+Status FAIL: Num I/O not matching for 2696... Expected:79 Got:790
+
+
+Test case: NON_NDX_SEARCH Phone-of-2702 74
+Status FAIL: Num I/O not matching for 2702... Expected:74 Got:738
+
+
+Test case: NON_NDX_SEARCH Phone-of-2704 38
+Status FAIL: Num I/O not matching for 2704... Expected:38 Got:379
+
+
+Test case: NON_NDX_SEARCH Phone-of-2711 56
+Status FAIL: Num I/O not matching for 2711... Expected:56 Got:554
+
+
+Test case: NON_NDX_SEARCH Phone-of-2733 47
+Status FAIL: Num I/O not matching for 2733... Expected:47 Got:468
+
+
+Test case: NON_NDX_SEARCH Phone-of-2748 6
+Status FAIL: Num I/O not matching for 2748... Expected:6 Got:57
+
+
+Test case: NON_NDX_SEARCH Phone-of-2752 58
+Status FAIL: Num I/O not matching for 2752... Expected:58 Got:576
+
+
+Test case: NON_NDX_SEARCH Phone-of-2779 12
+Status FAIL: Num I/O not matching for 2779... Expected:12 Got:118
+
+
+Test case: NON_NDX_SEARCH Phone-of-2791 86
+Status FAIL: Num I/O not matching for 2791... Expected:86 Got:859
+
+
+Test case: NON_NDX_SEARCH Phone-of-2813 92
+Status FAIL: Num I/O not matching for 2813... Expected:92 Got:911
+
+
+Test case: NON_NDX_SEARCH Phone-of-2815 69
+Status FAIL: Num I/O not matching for 2815... Expected:69 Got:688
+
+
+Test case: NON_NDX_SEARCH Phone-of-2822 68
+Status FAIL: Num I/O not matching for 2822... Expected:68 Got:679
+
+
+Test case: NON_NDX_SEARCH Phone-of-2825 49
+Status FAIL: Num I/O not matching for 2825... Expected:49 Got:488
+
+
+Test case: NON_NDX_SEARCH Phone-of-2831 11
+Status FAIL: Num I/O not matching for 2831... Expected:11 Got:103
+
+
+Test case: NON_NDX_SEARCH Phone-of-2838 32
+Status FAIL: Num I/O not matching for 2838... Expected:32 Got:312
+
+
+Test case: NON_NDX_SEARCH Phone-of-2842 57
+Status FAIL: Num I/O not matching for 2842... Expected:57 Got:563
+
+
+Test case: NON_NDX_SEARCH Phone-of-2850 22
+Status FAIL: Num I/O not matching for 2850... Expected:22 Got:214
+
+
+Test case: NON_NDX_SEARCH Phone-of-2868 37
+Status FAIL: Num I/O not matching for 2868... Expected:37 Got:361
+
+
+Test case: NON_NDX_SEARCH Phone-of-2870 21
+Status FAIL: Num I/O not matching for 2870... Expected:21 Got:204
+
+
+Test case: NON_NDX_SEARCH Phone-of-2885 3
+Status FAIL: Num I/O not matching for 2885... Expected:3 Got:27
+
+
+Test case: NON_NDX_SEARCH Phone-of-2907 17
+Status FAIL: Num I/O not matching for 2907... Expected:17 Got:164
+
+
+Test case: NON_NDX_SEARCH Phone-of-2933 5
+Status FAIL: Num I/O not matching for 2933... Expected:5 Got:42
+
+
+Test case: NON_NDX_SEARCH Phone-of-2934 39
+Status FAIL: Num I/O not matching for 2934... Expected:39 Got:384
+
+
+Test case: NON_NDX_SEARCH Phone-of-2935 1
+Status FAIL: Num I/O not matching for 2935... Expected:1 Got:5
+
+
+Test case: NON_NDX_SEARCH Phone-of-2948 91
+Status FAIL: Num I/O not matching for 2948... Expected:91 Got:903
+
+
+Test case: NON_NDX_SEARCH Phone-of-2953 11
+Status FAIL: Num I/O not matching for 2953... Expected:11 Got:102
+
+
+Test case: NON_NDX_SEARCH Phone-of-2960 39
+Status FAIL: Num I/O not matching for 2960... Expected:39 Got:385
+
+
+Test case: NON_NDX_SEARCH Phone-of-2978 43
+Status FAIL: Num I/O not matching for 2978... Expected:43 Got:422
+
+
+Test case: NON_NDX_SEARCH Phone-of-2982 57
+Status FAIL: Num I/O not matching for 2982... Expected:57 Got:569
+
+
+Test case: NON_NDX_SEARCH Phone-of-2984 71
+Status FAIL: Num I/O not matching for 2984... Expected:71 Got:708
+
+
+Test case: NON_NDX_SEARCH Phone-of-3004 71
+Status FAIL: Num I/O not matching for 3004... Expected:71 Got:703
+
+
+Test case: NON_NDX_SEARCH Phone-of-3010 62
+Status FAIL: Num I/O not matching for 3010... Expected:62 Got:617
+
+
+Test case: NON_NDX_SEARCH Phone-of-3011 89
+Status FAIL: Num I/O not matching for 3011... Expected:89 Got:890
+
+
+Test case: NON_NDX_SEARCH Phone-of-3044 6
+Status FAIL: Num I/O not matching for 3044... Expected:6 Got:51
+
+
+Test case: NON_NDX_SEARCH Phone-of-3047 40
+Status FAIL: Num I/O not matching for 3047... Expected:40 Got:397
+
+
+Test case: NON_NDX_SEARCH Phone-of-3074 42
+Status FAIL: Num I/O not matching for 3074... Expected:42 Got:413
+
+
+Test case: NON_NDX_SEARCH Phone-of-3091 63
+Status FAIL: Num I/O not matching for 3091... Expected:63 Got:630
+
+
+Test case: NON_NDX_SEARCH Phone-of-3092 22
+Status FAIL: Num I/O not matching for 3092... Expected:22 Got:212
+
+
+Test case: NON_NDX_SEARCH Phone-of-3093 86
+Status FAIL: Num I/O not matching for 3093... Expected:86 Got:854
+
+
+Test case: NON_NDX_SEARCH Phone-of-3098 35
+Status FAIL: Num I/O not matching for 3098... Expected:35 Got:347
+
+
+Test case: NON_NDX_SEARCH Phone-of-3100 58
+Status FAIL: Num I/O not matching for 3100... Expected:58 Got:579
+
+
+Test case: NON_NDX_SEARCH Phone-of-3102 10
+Status FAIL: Num I/O not matching for 3102... Expected:10 Got:99
+
+
+Test case: NON_NDX_SEARCH Phone-of-3105 34
+Status FAIL: Num I/O not matching for 3105... Expected:34 Got:334
+
+
+Test case: NON_NDX_SEARCH Phone-of-3106 80
+Status FAIL: Num I/O not matching for 3106... Expected:80 Got:792
+
+
+Test case: NON_NDX_SEARCH Phone-of-3112 15
+Status FAIL: Num I/O not matching for 3112... Expected:15 Got:148
+
+
+Test case: NON_NDX_SEARCH Phone-of-3116 68
+Status FAIL: Num I/O not matching for 3116... Expected:68 Got:678
+
+
+Test case: NON_NDX_SEARCH Phone-of-3141 34
+Status FAIL: Num I/O not matching for 3141... Expected:34 Got:335
+
+
+Test case: NON_NDX_SEARCH Phone-of-3162 83
+Status FAIL: Num I/O not matching for 3162... Expected:83 Got:826
+
+
+Test case: NON_NDX_SEARCH Phone-of-3167 20
+Status FAIL: Num I/O not matching for 3167... Expected:20 Got:197
+
+
+Test case: NON_NDX_SEARCH Phone-of-3175 13
+Status FAIL: Num I/O not matching for 3175... Expected:13 Got:121
+
+
+Test case: NON_NDX_SEARCH Phone-of-3177 33
+Status FAIL: Num I/O not matching for 3177... Expected:33 Got:323
+
+
+Test case: NON_NDX_SEARCH Phone-of-3182 53
+Status FAIL: Num I/O not matching for 3182... Expected:53 Got:521
+
+
+Test case: NON_NDX_SEARCH Phone-of-3186 82
+Status FAIL: Num I/O not matching for 3186... Expected:82 Got:811
+
+
+Test case: NON_NDX_SEARCH Phone-of-3207 53
+Status FAIL: Num I/O not matching for 3207... Expected:53 Got:522
+
+
+Test case: NON_NDX_SEARCH Phone-of-3221 1
+Status FAIL: Num I/O not matching for 3221... Expected:1 Got:8
+
+
+Test case: NON_NDX_SEARCH Phone-of-3235 25
+Status FAIL: Num I/O not matching for 3235... Expected:25 Got:246
+
+
+Test case: NON_NDX_SEARCH Phone-of-3278 49
+Status FAIL: Num I/O not matching for 3278... Expected:49 Got:484
+
+
+Test case: NON_NDX_SEARCH Phone-of-3279 95
+Status FAIL: Num I/O not matching for 3279... Expected:95 Got:950
+
+
+Test case: NON_NDX_SEARCH Phone-of-3288 85
+Status FAIL: Num I/O not matching for 3288... Expected:85 Got:844
+
+
+Test case: NON_NDX_SEARCH Phone-of-3289 71
+Status FAIL: Num I/O not matching for 3289... Expected:71 Got:705
+
+
+Test case: NON_NDX_SEARCH Phone-of-3308 56
+Status FAIL: Num I/O not matching for 3308... Expected:56 Got:559
+
+
+Test case: NON_NDX_SEARCH Phone-of-3320 7
+Status FAIL: Num I/O not matching for 3320... Expected:7 Got:64
+
+
+Test case: NON_NDX_SEARCH Phone-of-3321 3
+Status FAIL: Num I/O not matching for 3321... Expected:3 Got:28
+
+
+Test case: NON_NDX_SEARCH Phone-of-3327 59
+Status FAIL: Num I/O not matching for 3327... Expected:59 Got:588
+
+
+Test case: NON_NDX_SEARCH Phone-of-3336 81
+Status FAIL: Num I/O not matching for 3336... Expected:81 Got:805
+
+
+Test case: NON_NDX_SEARCH Phone-of-3337 29
+Status FAIL: Num I/O not matching for 3337... Expected:29 Got:282
+
+
+Test case: NON_NDX_SEARCH Phone-of-3339 37
+Status FAIL: Num I/O not matching for 3339... Expected:37 Got:367
+
+
+Test case: NON_NDX_SEARCH Phone-of-3341 11
+Status FAIL: Num I/O not matching for 3341... Expected:11 Got:110
+
+
+Test case: NON_NDX_SEARCH Phone-of-3347 12
+Status FAIL: Num I/O not matching for 3347... Expected:12 Got:113
+
+
+Test case: NON_NDX_SEARCH Phone-of-3354 31
+Status FAIL: Num I/O not matching for 3354... Expected:31 Got:305
+
+
+Test case: NON_NDX_SEARCH Phone-of-3357 23
+Status FAIL: Num I/O not matching for 3357... Expected:23 Got:227
+
+
+Test case: NON_NDX_SEARCH Phone-of-3359 32
+Status FAIL: Num I/O not matching for 3359... Expected:32 Got:313
+
+
+Test case: NON_NDX_SEARCH Phone-of-3364 85
+Status FAIL: Num I/O not matching for 3364... Expected:85 Got:849
+
+
+Test case: NON_NDX_SEARCH Phone-of-3365 27
+Status FAIL: Num I/O not matching for 3365... Expected:27 Got:263
+
+
+Test case: NON_NDX_SEARCH Phone-of-3368 45
+Status FAIL: Num I/O not matching for 3368... Expected:45 Got:449
+
+
+Test case: NON_NDX_SEARCH Phone-of-3370 13
+Status FAIL: Num I/O not matching for 3370... Expected:13 Got:128
+
+
+Test case: NON_NDX_SEARCH Phone-of-3376 64
+Status FAIL: Num I/O not matching for 3376... Expected:64 Got:633
+
+
+Test case: NON_NDX_SEARCH Phone-of-3383 19
+Status FAIL: Num I/O not matching for 3383... Expected:19 Got:186
+
+
+Test case: NON_NDX_SEARCH Phone-of-3387 36
+Status FAIL: Num I/O not matching for 3387... Expected:36 Got:359
+
+
+Test case: NON_NDX_SEARCH Phone-of-3390 88
+Status FAIL: Num I/O not matching for 3390... Expected:88 Got:871
+
+
+Test case: NON_NDX_SEARCH Phone-of-3396 45
+Status FAIL: Num I/O not matching for 3396... Expected:45 Got:450
+
+
+Test case: NON_NDX_SEARCH Phone-of-3414 87
+Status FAIL: Num I/O not matching for 3414... Expected:87 Got:861
+
+
+Test case: NON_NDX_SEARCH Phone-of-3421 18
+Status FAIL: Num I/O not matching for 3421... Expected:18 Got:175
+
+
+Test case: NON_NDX_SEARCH Phone-of-3431 87
+Status FAIL: Num I/O not matching for 3431... Expected:87 Got:869
+
+
+Test case: NON_NDX_SEARCH Phone-of-3433 72
+Status FAIL: Num I/O not matching for 3433... Expected:72 Got:714
+
+
+Test case: NON_NDX_SEARCH Phone-of-3435 82
+Status FAIL: Num I/O not matching for 3435... Expected:82 Got:820
+
+
+Test case: NON_NDX_SEARCH Phone-of-3450 5
+Status FAIL: Num I/O not matching for 3450... Expected:5 Got:50
+
+
+Test case: NON_NDX_SEARCH Phone-of-3464 61
+Status FAIL: Num I/O not matching for 3464... Expected:61 Got:608
+
+
+Test case: NON_NDX_SEARCH Phone-of-3470 62
+Status FAIL: Num I/O not matching for 3470... Expected:62 Got:620
+
+
+Test case: NON_NDX_SEARCH Phone-of-3476 56
+Status FAIL: Num I/O not matching for 3476... Expected:56 Got:552
+
+
+Test case: NON_NDX_SEARCH Phone-of-3478 8
+Status FAIL: Num I/O not matching for 3478... Expected:8 Got:75
+
+
+Test case: NON_NDX_SEARCH Phone-of-3483 54
+Status FAIL: Num I/O not matching for 3483... Expected:54 Got:534
+
+
+Test case: NON_NDX_SEARCH Phone-of-3503 35
+Status FAIL: Num I/O not matching for 3503... Expected:35 Got:345
+
+
+Test case: NON_NDX_SEARCH Phone-of-3507 62
+Status FAIL: Num I/O not matching for 3507... Expected:62 Got:615
+
+
+Test case: NON_NDX_SEARCH Phone-of-3508 8
+Status FAIL: Num I/O not matching for 3508... Expected:8 Got:78
+
+
+Test case: NON_NDX_SEARCH Phone-of-3514 84
+Status FAIL: Num I/O not matching for 3514... Expected:84 Got:831
+
+
+Test case: NON_NDX_SEARCH Phone-of-3516 40
+Status FAIL: Num I/O not matching for 3516... Expected:40 Got:396
+
+
+Test case: NON_NDX_SEARCH Phone-of-3517 37
+Status FAIL: Num I/O not matching for 3517... Expected:37 Got:363
+
+
+Test case: NON_NDX_SEARCH Phone-of-3523 81
+Status FAIL: Num I/O not matching for 3523... Expected:81 Got:810
+
+
+Test case: NON_NDX_SEARCH Phone-of-3550 89
+Status FAIL: Num I/O not matching for 3550... Expected:89 Got:884
+
+
+Test case: NON_NDX_SEARCH Phone-of-3554 63
+Status FAIL: Num I/O not matching for 3554... Expected:63 Got:628
+
+
+Test case: NON_NDX_SEARCH Phone-of-3556 66
+Status FAIL: Num I/O not matching for 3556... Expected:66 Got:651
+
+
+Test case: NON_NDX_SEARCH Phone-of-3557 50
+Status FAIL: Num I/O not matching for 3557... Expected:50 Got:497
+
+
+Test case: NON_NDX_SEARCH Phone-of-3559 26
+Status FAIL: Num I/O not matching for 3559... Expected:26 Got:259
+
+
+Test case: NON_NDX_SEARCH Phone-of-3562 49
+Status FAIL: Num I/O not matching for 3562... Expected:49 Got:489
+
+
+Test case: NON_NDX_SEARCH Phone-of-3622 4
+Status FAIL: Num I/O not matching for 3622... Expected:4 Got:31
+
+
+Test case: NON_NDX_SEARCH Phone-of-3637 76
+Status FAIL: Num I/O not matching for 3637... Expected:76 Got:751
+
+
+Test case: NON_NDX_SEARCH Phone-of-3640 60
+Status FAIL: Num I/O not matching for 3640... Expected:60 Got:596
+
+
+Test case: NON_NDX_SEARCH Phone-of-3657 5
+Status FAIL: Num I/O not matching for 3657... Expected:5 Got:44
+
+
+Test case: NON_NDX_SEARCH Phone-of-3658 94
+Status FAIL: Num I/O not matching for 3658... Expected:94 Got:940
+
+
+Test case: NON_NDX_SEARCH Phone-of-3664 91
+Status FAIL: Num I/O not matching for 3664... Expected:91 Got:908
+
+
+Test case: NON_NDX_SEARCH Phone-of-3671 87
+Status FAIL: Num I/O not matching for 3671... Expected:87 Got:867
+
+
+Test case: NON_NDX_SEARCH Phone-of-3682 91
+Status FAIL: Num I/O not matching for 3682... Expected:91 Got:902
+
+
+Test case: NON_NDX_SEARCH Phone-of-3685 88
+Status FAIL: Num I/O not matching for 3685... Expected:88 Got:875
+
+
+Test case: NON_NDX_SEARCH Phone-of-3697 76
+Status FAIL: Num I/O not matching for 3697... Expected:76 Got:753
+
+
+Test case: NON_NDX_SEARCH Phone-of-3711 82
+Status FAIL: Num I/O not matching for 3711... Expected:82 Got:812
+
+
+Test case: NON_NDX_SEARCH Phone-of-3745 66
+Status FAIL: Num I/O not matching for 3745... Expected:66 Got:657
+
+
+Test case: NON_NDX_SEARCH Phone-of-3746 57
+Status FAIL: Num I/O not matching for 3746... Expected:57 Got:568
+
+
+Test case: NON_NDX_SEARCH Phone-of-3775 77
+Status FAIL: Num I/O not matching for 3775... Expected:77 Got:769
+
+
+Test case: NON_NDX_SEARCH Phone-of-3778 86
+Status FAIL: Num I/O not matching for 3778... Expected:86 Got:860
+
+
+Test case: NON_NDX_SEARCH Phone-of-3813 89
+Status FAIL: Num I/O not matching for 3813... Expected:89 Got:887
+
+
+Test case: NON_NDX_SEARCH Phone-of-3817 27
+Status FAIL: Num I/O not matching for 3817... Expected:27 Got:261
+
+
+Test case: NON_NDX_SEARCH Phone-of-3821 58
+Status FAIL: Num I/O not matching for 3821... Expected:58 Got:574
+
+
+Test case: NON_NDX_SEARCH Phone-of-3841 6
+Status FAIL: Num I/O not matching for 3841... Expected:6 Got:52
+
+
+Test case: NON_NDX_SEARCH Phone-of-3842 47
+Status FAIL: Num I/O not matching for 3842... Expected:47 Got:469
+
+
+Test case: NON_NDX_SEARCH Phone-of-3848 11
+Status FAIL: Num I/O not matching for 3848... Expected:11 Got:101
+
+
+Test case: NON_NDX_SEARCH Phone-of-3857 75
+Status FAIL: Num I/O not matching for 3857... Expected:75 Got:745
+
+
+Test case: NON_NDX_SEARCH Phone-of-3871 8
+Status FAIL: Num I/O not matching for 3871... Expected:8 Got:73
+
+
+Test case: NON_NDX_SEARCH Phone-of-3876 8
+Status FAIL: Num I/O not matching for 3876... Expected:8 Got:71
+
+
+Test case: NON_NDX_SEARCH Phone-of-3882 11
+Status FAIL: Num I/O not matching for 3882... Expected:11 Got:105
+
+
+Test case: NON_NDX_SEARCH Phone-of-3890 64
+Status FAIL: Num I/O not matching for 3890... Expected:64 Got:638
+
+
+Test case: NON_NDX_SEARCH Phone-of-3895 63
+Status FAIL: Num I/O not matching for 3895... Expected:63 Got:624
+
+
+Test case: NON_NDX_SEARCH Phone-of-3912 58
+Status FAIL: Num I/O not matching for 3912... Expected:58 Got:573
+
+
+Test case: NON_NDX_SEARCH Phone-of-3913 61
+Status FAIL: Num I/O not matching for 3913... Expected:61 Got:603
+
+
+Test case: NON_NDX_SEARCH Phone-of-3915 72
+Status FAIL: Num I/O not matching for 3915... Expected:72 Got:720
+
+
+Test case: NON_NDX_SEARCH Phone-of-3929 75
+Status FAIL: Num I/O not matching for 3929... Expected:75 Got:744
+
+
+Test case: NON_NDX_SEARCH Phone-of-3931 2
+Status FAIL: Num I/O not matching for 3931... Expected:2 Got:17
+
+
+Test case: NON_NDX_SEARCH Phone-of-3945 66
+Status FAIL: Num I/O not matching for 3945... Expected:66 Got:652
+
+
+Test case: NON_NDX_SEARCH Phone-of-3953 54
+Status FAIL: Num I/O not matching for 3953... Expected:54 Got:540
+
+
+Test case: NON_NDX_SEARCH Phone-of-3986 50
+Status FAIL: Num I/O not matching for 3986... Expected:50 Got:493
+
+
+Test case: NON_NDX_SEARCH Phone-of-4002 27
+Status FAIL: Num I/O not matching for 4002... Expected:27 Got:265
+
+
+Test case: NON_NDX_SEARCH Phone-of-4008 91
+Status FAIL: Num I/O not matching for 4008... Expected:91 Got:901
+
+
+Test case: NON_NDX_SEARCH Phone-of-4019 15
+Status FAIL: Num I/O not matching for 4019... Expected:15 Got:146
+
+
+Test case: NON_NDX_SEARCH Phone-of-4041 52
+Status FAIL: Num I/O not matching for 4041... Expected:52 Got:520
+
+
+Test case: NON_NDX_SEARCH Phone-of-4043 67
+Status FAIL: Num I/O not matching for 4043... Expected:67 Got:668
+
+
+Test case: NON_NDX_SEARCH Phone-of-4063 67
+Status FAIL: Num I/O not matching for 4063... Expected:67 Got:669
+
+
+Test case: NON_NDX_SEARCH Phone-of-4075 29
+Status FAIL: Num I/O not matching for 4075... Expected:29 Got:287
+
+
+Test case: NON_NDX_SEARCH Phone-of-4085 51
+Status FAIL: Num I/O not matching for 4085... Expected:51 Got:505
+
+
+Test case: NON_NDX_SEARCH Phone-of-4101 18
+Status FAIL: Num I/O not matching for 4101... Expected:18 Got:180
+
+
+Test case: NON_NDX_SEARCH Phone-of-4106 72
+Status FAIL: Num I/O not matching for 4106... Expected:72 Got:715
+
+
+Test case: NON_NDX_SEARCH Phone-of-4111 23
+Status FAIL: Num I/O not matching for 4111... Expected:23 Got:223
+
+
+Test case: NON_NDX_SEARCH Phone-of-4117 86
+Status FAIL: Num I/O not matching for 4117... Expected:86 Got:853
+
+
+Test case: NON_NDX_SEARCH Phone-of-4145 49
+Status FAIL: Num I/O not matching for 4145... Expected:49 Got:481
+
+
+Test case: NON_NDX_SEARCH Phone-of-4166 71
+Status FAIL: Num I/O not matching for 4166... Expected:71 Got:704
+
+
+Test case: NON_NDX_SEARCH Phone-of-4170 18
+Status FAIL: Num I/O not matching for 4170... Expected:18 Got:171
+
+
+Test case: NON_NDX_SEARCH Phone-of-4177 89
+Status FAIL: Num I/O not matching for 4177... Expected:89 Got:885
+
+
+Test case: NON_NDX_SEARCH Phone-of-4183 36
+Status FAIL: Num I/O not matching for 4183... Expected:36 Got:360
+
+
+Test case: NON_NDX_SEARCH Phone-of-4185 73
+Status FAIL: Num I/O not matching for 4185... Expected:73 Got:729
+
+
+Test case: NON_NDX_SEARCH Phone-of-4193 56
+Status FAIL: Num I/O not matching for 4193... Expected:56 Got:557
+
+
+Test case: NON_NDX_SEARCH Phone-of-4233 80
+Status FAIL: Num I/O not matching for 4233... Expected:80 Got:795
+
+
+Test case: NON_NDX_SEARCH Phone-of-4243 14
+Status FAIL: Num I/O not matching for 4243... Expected:14 Got:131
+
+
+Test case: NON_NDX_SEARCH Phone-of-4247 54
+Status FAIL: Num I/O not matching for 4247... Expected:54 Got:532
+
+
+Test case: NON_NDX_SEARCH Phone-of-4249 53
+Status FAIL: Num I/O not matching for 4249... Expected:53 Got:527
+
+
+Test case: NON_NDX_SEARCH Phone-of-4255 90
+Status FAIL: Num I/O not matching for 4255... Expected:90 Got:895
+
+
+Test case: NON_NDX_SEARCH Phone-of-4261 61
+Status FAIL: Num I/O not matching for 4261... Expected:61 Got:609
+
+
+Test case: NON_NDX_SEARCH Phone-of-4267 92
+Status FAIL: Num I/O not matching for 4267... Expected:92 Got:920
+
+
+Test case: NON_NDX_SEARCH Phone-of-4270 48
+Status FAIL: Num I/O not matching for 4270... Expected:48 Got:477
+
+
+Test case: NON_NDX_SEARCH Phone-of-4287 44
+Status FAIL: Num I/O not matching for 4287... Expected:44 Got:434
+
+
+Test case: NON_NDX_SEARCH Phone-of-4294 89
+Status FAIL: Num I/O not matching for 4294... Expected:89 Got:881
+
+
+Test case: NON_NDX_SEARCH Phone-of-4304 32
+Status FAIL: Num I/O not matching for 4304... Expected:32 Got:318
+
+
+Test case: NON_NDX_SEARCH Phone-of-4315 56
+Status FAIL: Num I/O not matching for 4315... Expected:56 Got:560
+
+
+Test case: NON_NDX_SEARCH Phone-of-4326 83
+Status FAIL: Num I/O not matching for 4326... Expected:83 Got:821
+
+
+Test case: NON_NDX_SEARCH Phone-of-4334 6
+Status FAIL: Num I/O not matching for 4334... Expected:6 Got:56
+
+
+Test case: NON_NDX_SEARCH Phone-of-4338 5
+Status FAIL: Num I/O not matching for 4338... Expected:5 Got:49
+
+
+Test case: NON_NDX_SEARCH Phone-of-4359 58
+Status FAIL: Num I/O not matching for 4359... Expected:58 Got:578
+
+
+Test case: NON_NDX_SEARCH Phone-of-4360 16
+Status FAIL: Num I/O not matching for 4360... Expected:16 Got:155
+
+
+Test case: NON_NDX_SEARCH Phone-of-4361 87
+Status FAIL: Num I/O not matching for 4361... Expected:87 Got:863
+
+
+Test case: NON_NDX_SEARCH Phone-of-4367 83
+Status FAIL: Num I/O not matching for 4367... Expected:83 Got:824
+
+
+Test case: NON_NDX_SEARCH Phone-of-4379 44
+Status FAIL: Num I/O not matching for 4379... Expected:44 Got:438
+
+
+Test case: NON_NDX_SEARCH Phone-of-4394 21
+Status FAIL: Num I/O not matching for 4394... Expected:21 Got:203
+
+
+Test case: NON_NDX_SEARCH Phone-of-4407 24
+Status FAIL: Num I/O not matching for 4407... Expected:24 Got:234
+
+
+Test case: NON_NDX_SEARCH Phone-of-4416 88
+Status FAIL: Num I/O not matching for 4416... Expected:88 Got:874
+
+
+Test case: NON_NDX_SEARCH Phone-of-4417 85
+Status FAIL: Num I/O not matching for 4417... Expected:85 Got:842
+
+
+Test case: NON_NDX_SEARCH Phone-of-4420 25
+Status FAIL: Num I/O not matching for 4420... Expected:25 Got:250
+
+
+Test case: NON_NDX_SEARCH Phone-of-4437 85
+Status FAIL: Num I/O not matching for 4437... Expected:85 Got:848
+
+
+Test case: NON_NDX_SEARCH Phone-of-4457 54
+Status FAIL: Num I/O not matching for 4457... Expected:54 Got:533
+
+
+Test case: NON_NDX_SEARCH Phone-of-4461 45
+Status FAIL: Num I/O not matching for 4461... Expected:45 Got:447
+
+
+Test case: NON_NDX_SEARCH Phone-of-4471 84
+Status FAIL: Num I/O not matching for 4471... Expected:84 Got:834
+
+
+Test case: NON_NDX_SEARCH Phone-of-4478 95
+Status FAIL: Num I/O not matching for 4478... Expected:95 Got:946
+
+
+Test case: NON_NDX_SEARCH Phone-of-4496 29
+Status FAIL: Num I/O not matching for 4496... Expected:29 Got:288
+
+
+Test case: NON_NDX_SEARCH Phone-of-4507 89
+Status FAIL: Num I/O not matching for 4507... Expected:89 Got:888
+
+
+Test case: NON_NDX_SEARCH Phone-of-4515 18
+Status FAIL: Num I/O not matching for 4515... Expected:18 Got:176
+
+
+Test case: NON_NDX_SEARCH Phone-of-4519 71
+Status FAIL: Num I/O not matching for 4519... Expected:71 Got:707
+
+
+Test case: NON_NDX_SEARCH Phone-of-4540 9
+Status FAIL: Num I/O not matching for 4540... Expected:9 Got:86
+
+
+Test case: NON_NDX_SEARCH Phone-of-4544 87
+Status FAIL: Num I/O not matching for 4544... Expected:87 Got:862
+
+
+Test case: NON_NDX_SEARCH Phone-of-4557 26
+Status FAIL: Num I/O not matching for 4557... Expected:26 Got:258
+
+
+Test case: NON_NDX_SEARCH Phone-of-4562 11
+Status FAIL: Num I/O not matching for 4562... Expected:11 Got:109
+
+
+Test case: NON_NDX_SEARCH Phone-of-4565 45
+Status FAIL: Num I/O not matching for 4565... Expected:45 Got:444
+
+
+Test case: NON_NDX_SEARCH Phone-of-4597 55
+Status FAIL: Num I/O not matching for 4597... Expected:55 Got:544
+
+
+Test case: NON_NDX_SEARCH Phone-of-4617 26
+Status FAIL: Num I/O not matching for 4617... Expected:26 Got:260
+
+
+Test case: NON_NDX_SEARCH Phone-of-4618 20
+Status FAIL: Num I/O not matching for 4618... Expected:20 Got:200
+
+
+Test case: NON_NDX_SEARCH Phone-of-4628 64
+Status FAIL: Num I/O not matching for 4628... Expected:64 Got:636
+
+
+Test case: NON_NDX_SEARCH Phone-of-4631 11
+Status FAIL: Num I/O not matching for 4631... Expected:11 Got:104
+
+
+Test case: NON_NDX_SEARCH Phone-of-4634 30
+Status FAIL: Num I/O not matching for 4634... Expected:30 Got:299
+
+
+Test case: NON_NDX_SEARCH Phone-of-4652 50
+Status FAIL: Num I/O not matching for 4652... Expected:50 Got:496
+
+
+Test case: NON_NDX_SEARCH Phone-of-4687 13
+Status FAIL: Num I/O not matching for 4687... Expected:13 Got:126
+
+
+Test case: NON_NDX_SEARCH Phone-of-4692 14
+Status FAIL: Num I/O not matching for 4692... Expected:14 Got:139
+
+
+Test case: NON_NDX_SEARCH Phone-of-4704 87
+Status FAIL: Num I/O not matching for 4704... Expected:87 Got:868
+
+
+Test case: NON_NDX_SEARCH Phone-of-4709 52
+Status FAIL: Num I/O not matching for 4709... Expected:52 Got:512
+
+
+Test case: NON_NDX_SEARCH Phone-of-4718 33
+Status FAIL: Num I/O not matching for 4718... Expected:33 Got:324
+
+
+Test case: NON_NDX_SEARCH Phone-of-4735 42
+Status FAIL: Num I/O not matching for 4735... Expected:42 Got:414
+
+
+Test case: NON_NDX_SEARCH Phone-of-4754 21
+Status FAIL: Num I/O not matching for 4754... Expected:21 Got:205
+
+
+Test case: NON_NDX_SEARCH Phone-of-4759 17
+Status FAIL: Num I/O not matching for 4759... Expected:17 Got:168
+
+
+Test case: NON_NDX_SEARCH Phone-of-4767 27
+Status FAIL: Num I/O not matching for 4767... Expected:27 Got:264
+
+
+Test case: NON_NDX_SEARCH Phone-of-4781 82
+Status FAIL: Num I/O not matching for 4781... Expected:82 Got:814
+
+
+Test case: NON_NDX_SEARCH Phone-of-4792 89
+Status FAIL: Num I/O not matching for 4792... Expected:89 Got:883
+
+
+Test case: NON_NDX_SEARCH Phone-of-4802 92
+Status FAIL: Num I/O not matching for 4802... Expected:92 Got:915
+
+
+Test case: NON_NDX_SEARCH Phone-of-4805 10
+Status FAIL: Num I/O not matching for 4805... Expected:10 Got:96
+
+
+Test case: NON_NDX_SEARCH Phone-of-4816 74
+Status FAIL: Num I/O not matching for 4816... Expected:74 Got:732
+
+
+Test case: NON_NDX_SEARCH Phone-of-4818 49
+Status FAIL: Num I/O not matching for 4818... Expected:49 Got:485
+
+
+Test case: NON_NDX_SEARCH Phone-of-4822 2
+Status FAIL: Num I/O not matching for 4822... Expected:2 Got:11
+
+
+Test case: NON_NDX_SEARCH Phone-of-4825 56
+Status FAIL: Num I/O not matching for 4825... Expected:56 Got:551
+
+
+Test case: NON_NDX_SEARCH Phone-of-4838 75
+Status FAIL: Num I/O not matching for 4838... Expected:75 Got:750
+
+
+Test case: NON_NDX_SEARCH Phone-of-4845 83
+Status FAIL: Num I/O not matching for 4845... Expected:83 Got:828
+
+
+Test case: NON_NDX_SEARCH Phone-of-4847 92
+Status FAIL: Num I/O not matching for 4847... Expected:92 Got:917
+
+
+Test case: NON_NDX_SEARCH Phone-of-4848 17
+Status FAIL: Num I/O not matching for 4848... Expected:17 Got:161
+
+
+Test case: NON_NDX_SEARCH Phone-of-4849 48
+Status FAIL: Num I/O not matching for 4849... Expected:48 Got:475
+
+
+Test case: NON_NDX_SEARCH Phone-of-4853 30
+Status FAIL: Num I/O not matching for 4853... Expected:30 Got:292
+
+
+Test case: NON_NDX_SEARCH Phone-of-4857 95
+Status FAIL: Num I/O not matching for 4857... Expected:95 Got:944
+
+
+Test case: NON_NDX_SEARCH Phone-of-4887 74
+Status FAIL: Num I/O not matching for 4887... Expected:74 Got:733
+
+
+Test case: NON_NDX_SEARCH Phone-of-4899 15
+Status FAIL: Num I/O not matching for 4899... Expected:15 Got:147
+
+
+Test case: NON_NDX_SEARCH Phone-of-4907 6
+Status FAIL: Num I/O not matching for 4907... Expected:6 Got:60
+
+
+Test case: NON_NDX_SEARCH Phone-of-4912 88
+Status FAIL: Num I/O not matching for 4912... Expected:88 Got:872
+
+
+Test case: NON_NDX_SEARCH Phone-of-4914 74
+Status FAIL: Num I/O not matching for 4914... Expected:74 Got:731
+
+
+Test case: NON_NDX_SEARCH Phone-of-4919 16
+Status FAIL: Num I/O not matching for 4919... Expected:16 Got:151
+
+
+Test case: NON_NDX_SEARCH Phone-of-4936 90
+Status FAIL: Num I/O not matching for 4936... Expected:90 Got:891
+
+
+Test case: NON_NDX_SEARCH Phone-of-4939 61
+Status FAIL: Num I/O not matching for 4939... Expected:61 Got:606
+
+
+Test case: NON_NDX_SEARCH Phone-of-4945 80
+Status FAIL: Num I/O not matching for 4945... Expected:80 Got:794
+
+
+Test case: NON_NDX_SEARCH Phone-of-4954 9
+Status FAIL: Num I/O not matching for 4954... Expected:9 Got:83
+
+
+Test case: NON_NDX_SEARCH Phone-of-4974 93
+Status FAIL: Num I/O not matching for 4974... Expected:93 Got:928
+
+
+Test case: NON_NDX_SEARCH Phone-of-4984 26
+Status FAIL: Num I/O not matching for 4984... Expected:26 Got:256
+
+
+Test case: NON_NDX_SEARCH Phone-of-5008 58
+Status FAIL: Num I/O not matching for 5008... Expected:58 Got:575
+
+
+Test case: NON_NDX_SEARCH Phone-of-5011 3
+Status FAIL: Num I/O not matching for 5011... Expected:3 Got:22
+
+
+Test case: NON_NDX_SEARCH Phone-of-5014 45
+Status FAIL: Num I/O not matching for 5014... Expected:45 Got:448
+
+
+Test case: NON_NDX_SEARCH Phone-of-5021 27
+Status FAIL: Num I/O not matching for 5021... Expected:27 Got:268
+
+
+Test case: NON_NDX_SEARCH Phone-of-5022 63
+Status FAIL: Num I/O not matching for 5022... Expected:63 Got:622
+
+
+Test case: NON_NDX_SEARCH Phone-of-5039 62
+Status FAIL: Num I/O not matching for 5039... Expected:62 Got:614
+
+
+Test case: NON_NDX_SEARCH Phone-of-5049 70
+Status FAIL: Num I/O not matching for 5049... Expected:70 Got:693
+
+
+Test case: NON_NDX_SEARCH Phone-of-5058 77
+Status FAIL: Num I/O not matching for 5058... Expected:77 Got:765
+
+
+Test case: NON_NDX_SEARCH Phone-of-5060 30
+Status FAIL: Num I/O not matching for 5060... Expected:30 Got:294
+
+
+Test case: NON_NDX_SEARCH Phone-of-5064 66
+Status FAIL: Num I/O not matching for 5064... Expected:66 Got:653
+
+
+Test case: NON_NDX_SEARCH Phone-of-5093 8
+Status FAIL: Num I/O not matching for 5093... Expected:8 Got:80
+
+
+Test case: NON_NDX_SEARCH Phone-of-5097 90
+Status FAIL: Num I/O not matching for 5097... Expected:90 Got:900
+
+
+Test case: NON_NDX_SEARCH Phone-of-5113 66
+Status FAIL: Num I/O not matching for 5113... Expected:66 Got:659
+
+
+Test case: NON_NDX_SEARCH Phone-of-5126 11
+Status FAIL: Num I/O not matching for 5126... Expected:11 Got:106
+
+
+Test case: NON_NDX_SEARCH Phone-of-5134 39
+Status FAIL: Num I/O not matching for 5134... Expected:39 Got:389
+
+
+Test case: NON_NDX_SEARCH Phone-of-5135 77
+Status FAIL: Num I/O not matching for 5135... Expected:77 Got:767
+
+
+Test case: NON_NDX_SEARCH Phone-of-5140 1
+Status FAIL: Num I/O not matching for 5140... Expected:1 Got:3
+
+
+Test case: NON_NDX_SEARCH Phone-of-5146 70
+Status FAIL: Num I/O not matching for 5146... Expected:70 Got:699
+
+
+Test case: NON_NDX_SEARCH Phone-of-5162 53
+Status FAIL: Num I/O not matching for 5162... Expected:53 Got:525
+
+
+Test case: NON_NDX_SEARCH Phone-of-5172 20
+Status FAIL: Num I/O not matching for 5172... Expected:20 Got:194
+
+
+Test case: NON_NDX_SEARCH Phone-of-5188 56
+Status FAIL: Num I/O not matching for 5188... Expected:56 Got:558
+
+
+Test case: NON_NDX_SEARCH Phone-of-5191 7
+Status FAIL: Num I/O not matching for 5191... Expected:7 Got:69
+
+
+Test case: NON_NDX_SEARCH Phone-of-5194 79
+Status FAIL: Num I/O not matching for 5194... Expected:79 Got:789
+
+
+Test case: NON_NDX_SEARCH Phone-of-5198 21
+Status FAIL: Num I/O not matching for 5198... Expected:21 Got:201
+
+
+Test case: NON_NDX_SEARCH Phone-of-5201 94
+Status FAIL: Num I/O not matching for 5201... Expected:94 Got:936
+
+
+Test case: NON_NDX_SEARCH Phone-of-5204 49
+Status FAIL: Num I/O not matching for 5204... Expected:49 Got:486
+
+
+Test case: NON_NDX_SEARCH Phone-of-5220 21
+Status FAIL: Num I/O not matching for 5220... Expected:21 Got:206
+
+
+Test case: NON_NDX_SEARCH Phone-of-5257 22
+Status FAIL: Num I/O not matching for 5257... Expected:22 Got:217
+
+
+Test case: NON_NDX_SEARCH Phone-of-5267 80
+Status FAIL: Num I/O not matching for 5267... Expected:80 Got:800
+
+
+Test case: NON_NDX_SEARCH Phone-of-5271 10
+Status FAIL: Num I/O not matching for 5271... Expected:10 Got:91
+
+
+Test case: NON_NDX_SEARCH Phone-of-5276 76
+Status FAIL: Num I/O not matching for 5276... Expected:76 Got:757
+
+
+Test case: NON_NDX_SEARCH Phone-of-5277 31
+Status FAIL: Num I/O not matching for 5277... Expected:31 Got:310
+
+
+Test case: NON_NDX_SEARCH Phone-of-5287 55
+Status FAIL: Num I/O not matching for 5287... Expected:55 Got:547
+
+
+Test case: NON_NDX_SEARCH Phone-of-5293 78
+Status FAIL: Num I/O not matching for 5293... Expected:78 Got:773
+
+
+Test case: NON_NDX_SEARCH Phone-of-5315 8
+Status FAIL: Num I/O not matching for 5315... Expected:8 Got:76
+
+
+Test case: NON_NDX_SEARCH Phone-of-5358 12
+Status FAIL: Num I/O not matching for 5358... Expected:12 Got:120
+
+
+Test case: NON_NDX_SEARCH Phone-of-5360 2
+Status FAIL: Num I/O not matching for 5360... Expected:2 Got:15
+
+
+Test case: NON_NDX_SEARCH Phone-of-5364 58
+Status FAIL: Num I/O not matching for 5364... Expected:58 Got:572
+
+
+Test case: NON_NDX_SEARCH Phone-of-5369 34
+Status FAIL: Num I/O not matching for 5369... Expected:34 Got:332
+
+
+Test case: NON_NDX_SEARCH Phone-of-5372 47
+Status FAIL: Num I/O not matching for 5372... Expected:47 Got:462
+
+
+Test case: NON_NDX_SEARCH Phone-of-5383 38
+Status FAIL: Num I/O not matching for 5383... Expected:38 Got:377
+
+
+Test case: NON_NDX_SEARCH Phone-of-5384 69
+Status FAIL: Num I/O not matching for 5384... Expected:69 Got:682
+
+
+Test case: NON_NDX_SEARCH Phone-of-5391 86
+Status FAIL: Num I/O not matching for 5391... Expected:86 Got:857
+
+
+Test case: NON_NDX_SEARCH Phone-of-5407 85
+Status FAIL: Num I/O not matching for 5407... Expected:85 Got:846
+
+
+Test case: NON_NDX_SEARCH Phone-of-5410 42
+Status FAIL: Num I/O not matching for 5410... Expected:42 Got:417
+
+
+Test case: NON_NDX_SEARCH Phone-of-5413 59
+Status FAIL: Num I/O not matching for 5413... Expected:59 Got:585
+
+
+Test case: NON_NDX_SEARCH Phone-of-5439 94
+Status FAIL: Num I/O not matching for 5439... Expected:94 Got:931
+
+
+Test case: NON_NDX_SEARCH Phone-of-5443 38
+Status FAIL: Num I/O not matching for 5443... Expected:38 Got:380
+
+
+Test case: NON_NDX_SEARCH Phone-of-5447 32
+Status FAIL: Num I/O not matching for 5447... Expected:32 Got:316
+
+
+Test case: NON_NDX_SEARCH Phone-of-5451 82
+Status FAIL: Num I/O not matching for 5451... Expected:82 Got:813
+
+
+Test case: NON_NDX_SEARCH Phone-of-5468 72
+Status FAIL: Num I/O not matching for 5468... Expected:72 Got:716
+
+
+Test case: NON_NDX_SEARCH Phone-of-5470 67
+Status FAIL: Num I/O not matching for 5470... Expected:67 Got:661
+
+
+Test case: NON_NDX_SEARCH Phone-of-5490 59
+Status FAIL: Num I/O not matching for 5490... Expected:59 Got:583
+
+
+Test case: NON_NDX_SEARCH Phone-of-5507 72
+Status FAIL: Num I/O not matching for 5507... Expected:72 Got:711
+
+
+Test case: NON_NDX_SEARCH Phone-of-5524 65
+Status FAIL: Num I/O not matching for 5524... Expected:65 Got:641
+
+
+Test case: NON_NDX_SEARCH Phone-of-5528 63
+Status FAIL: Num I/O not matching for 5528... Expected:63 Got:623
+
+
+Test case: NON_NDX_SEARCH Phone-of-5539 9
+Status FAIL: Num I/O not matching for 5539... Expected:9 Got:84
+
+
+Test case: NON_NDX_SEARCH Phone-of-5551 9
+Status FAIL: Num I/O not matching for 5551... Expected:9 Got:89
+
+
+Test case: NON_NDX_SEARCH Phone-of-5556 39
+Status FAIL: Num I/O not matching for 5556... Expected:39 Got:382
+
+
+Test case: NON_NDX_SEARCH Phone-of-5567 54
+Status FAIL: Num I/O not matching for 5567... Expected:54 Got:538
+
+
+Test case: NON_NDX_SEARCH Phone-of-5575 89
+Status FAIL: Num I/O not matching for 5575... Expected:89 Got:886
+
+
+Test case: NON_NDX_SEARCH Phone-of-5594 74
+Status FAIL: Num I/O not matching for 5594... Expected:74 Got:737
+
+
+Test case: NON_NDX_SEARCH Phone-of-5596 47
+Status FAIL: Num I/O not matching for 5596... Expected:47 Got:461
+
+
+Test case: NON_NDX_SEARCH Phone-of-5606 64
+Status FAIL: Num I/O not matching for 5606... Expected:64 Got:639
+
+
+Test case: NON_NDX_SEARCH Phone-of-5620 35
+Status FAIL: Num I/O not matching for 5620... Expected:35 Got:350
+
+
+Test case: NON_NDX_SEARCH Phone-of-5622 33
+Status FAIL: Num I/O not matching for 5622... Expected:33 Got:325
+
+
+Test case: NON_NDX_SEARCH Phone-of-5623 85
+Status FAIL: Num I/O not matching for 5623... Expected:85 Got:845
+
+
+Test case: NON_NDX_SEARCH Phone-of-5626 56
+Status FAIL: Num I/O not matching for 5626... Expected:56 Got:555
+
+
+Test case: NON_NDX_SEARCH Phone-of-5651 31
+Status FAIL: Num I/O not matching for 5651... Expected:31 Got:306
+
+
+Test case: NON_NDX_SEARCH Phone-of-5661 26
+Status FAIL: Num I/O not matching for 5661... Expected:26 Got:255
+
+
+Test case: NON_NDX_SEARCH Phone-of-5667 79
+Status FAIL: Num I/O not matching for 5667... Expected:79 Got:788
+
+
+Test case: NON_NDX_SEARCH Phone-of-5671 4
+Status FAIL: Num I/O not matching for 5671... Expected:4 Got:40
+
+
+Test case: NON_NDX_SEARCH Phone-of-5689 69
+Status FAIL: Num I/O not matching for 5689... Expected:69 Got:684
+
+
+Test case: NON_NDX_SEARCH Phone-of-5748 63
+Status FAIL: Num I/O not matching for 5748... Expected:63 Got:621
+
+
+Test case: NON_NDX_SEARCH Phone-of-5749 26
+Status FAIL: Num I/O not matching for 5749... Expected:26 Got:254
+
+
+Test case: NON_NDX_SEARCH Phone-of-5760 69
+Status FAIL: Num I/O not matching for 5760... Expected:69 Got:686
+
+
+Test case: NON_NDX_SEARCH Phone-of-5762 78
+Status FAIL: Num I/O not matching for 5762... Expected:78 Got:775
+
+
+Test case: NON_NDX_SEARCH Phone-of-5777 36
+Status FAIL: Num I/O not matching for 5777... Expected:36 Got:356
+
+
+Test case: NON_NDX_SEARCH Phone-of-5779 59
+Status FAIL: Num I/O not matching for 5779... Expected:59 Got:584
+
+
+Test case: NON_NDX_SEARCH Phone-of-5789 41
+Status FAIL: Num I/O not matching for 5789... Expected:41 Got:403
+
+
+Test case: NON_NDX_SEARCH Phone-of-5794 45
+Status FAIL: Num I/O not matching for 5794... Expected:45 Got:441
+
+
+Test case: NON_NDX_SEARCH Phone-of-5814 48
+Status FAIL: Num I/O not matching for 5814... Expected:48 Got:478
+
+
+Test case: NON_NDX_SEARCH Phone-of-5844 69
+Status FAIL: Num I/O not matching for 5844... Expected:69 Got:690
+
+
+Test case: NON_NDX_SEARCH Phone-of-5845 17
+Status FAIL: Num I/O not matching for 5845... Expected:17 Got:162
+
+
+Test case: NON_NDX_SEARCH Phone-of-5859 55
+Status FAIL: Num I/O not matching for 5859... Expected:55 Got:541
+
+
+Test case: NON_NDX_SEARCH Phone-of-5879 60
+Status FAIL: Num I/O not matching for 5879... Expected:60 Got:597
+
+
+Test case: NON_NDX_SEARCH Phone-of-5882 65
+Status FAIL: Num I/O not matching for 5882... Expected:65 Got:648
+
+
+Test case: NON_NDX_SEARCH Phone-of-5886 23
+Status FAIL: Num I/O not matching for 5886... Expected:23 Got:221
+
+
+Test case: NON_NDX_SEARCH Phone-of-5890 15
+Status FAIL: Num I/O not matching for 5890... Expected:15 Got:145
+
+
+Test case: NON_NDX_SEARCH Phone-of-5910 23
+Status FAIL: Num I/O not matching for 5910... Expected:23 Got:222
+
+
+Test case: NON_NDX_SEARCH Phone-of-5917 64
+Status FAIL: Num I/O not matching for 5917... Expected:64 Got:637
+
+
+Test case: NON_NDX_SEARCH Phone-of-5918 7
+Status FAIL: Num I/O not matching for 5918... Expected:7 Got:67
+
+
+Test case: NON_NDX_SEARCH Phone-of-5920 5
+Status FAIL: Num I/O not matching for 5920... Expected:5 Got:41
+
+
+Test case: NON_NDX_SEARCH Phone-of-5942 59
+Status FAIL: Num I/O not matching for 5942... Expected:59 Got:586
+
+
+Test case: NON_NDX_SEARCH Phone-of-5950 46
+Status FAIL: Num I/O not matching for 5950... Expected:46 Got:455
+
+
+Test case: NON_NDX_SEARCH Phone-of-5978 68
+Status FAIL: Num I/O not matching for 5978... Expected:68 Got:674
+
+
+Test case: NON_NDX_SEARCH Phone-of-5983 87
+Status FAIL: Num I/O not matching for 5983... Expected:87 Got:865
+
+
+Test case: NON_NDX_SEARCH Phone-of-5994 42
+Status FAIL: Num I/O not matching for 5994... Expected:42 Got:420
+
+
+Test case: NON_NDX_SEARCH Phone-of-5997 83
+Status FAIL: Num I/O not matching for 5997... Expected:83 Got:829
+
+
+Test case: NON_NDX_SEARCH Phone-of-6003 72
+Status FAIL: Num I/O not matching for 6003... Expected:72 Got:712
+
+
+Test case: NON_NDX_SEARCH Phone-of-6004 65
+Status FAIL: Num I/O not matching for 6004... Expected:65 Got:649
+
+
+Test case: NON_NDX_SEARCH Phone-of-6029 66
+Status FAIL: Num I/O not matching for 6029... Expected:66 Got:655
+
+
+Test case: NON_NDX_SEARCH Phone-of-6030 91
+Status FAIL: Num I/O not matching for 6030... Expected:91 Got:904
+
+
+Test case: NON_NDX_SEARCH Phone-of-6043 86
+Status FAIL: Num I/O not matching for 6043... Expected:86 Got:856
+
+
+Test case: NON_NDX_SEARCH Phone-of-6044 4
+Status FAIL: Num I/O not matching for 6044... Expected:4 Got:36
+
+
+Test case: NON_NDX_SEARCH Phone-of-6050 65
+Status FAIL: Num I/O not matching for 6050... Expected:65 Got:642
+
+
+Test case: NON_NDX_SEARCH Phone-of-6074 52
+Status FAIL: Num I/O not matching for 6074... Expected:52 Got:517
+
+
+Test case: NON_NDX_SEARCH Phone-of-6080 43
+Status FAIL: Num I/O not matching for 6080... Expected:43 Got:421
+
+
+Test case: NON_NDX_SEARCH Phone-of-6081 38
+Status FAIL: Num I/O not matching for 6081... Expected:38 Got:376
+
+
+Test case: NON_NDX_SEARCH Phone-of-6082 33
+Status FAIL: Num I/O not matching for 6082... Expected:33 Got:321
+
+
+Test case: NON_NDX_SEARCH Phone-of-6083 39
+Status FAIL: Num I/O not matching for 6083... Expected:39 Got:383
+
+
+Test case: NON_NDX_SEARCH Phone-of-6086 2
+Status FAIL: Num I/O not matching for 6086... Expected:2 Got:19
+
+
+Test case: NON_NDX_SEARCH Phone-of-6094 80
+Status FAIL: Num I/O not matching for 6094... Expected:80 Got:797
+
+
+Test case: NON_NDX_SEARCH Phone-of-6104 18
+Status FAIL: Num I/O not matching for 6104... Expected:18 Got:179
+
+
+Test case: NON_NDX_SEARCH Phone-of-6117 58
+Status FAIL: Num I/O not matching for 6117... Expected:58 Got:571
+
+
+Test case: NON_NDX_SEARCH Phone-of-6127 58
+Status FAIL: Num I/O not matching for 6127... Expected:58 Got:580
+
+
+Test case: NON_NDX_SEARCH Phone-of-6142 42
+Status FAIL: Num I/O not matching for 6142... Expected:42 Got:416
+
+
+Test case: NON_NDX_SEARCH Phone-of-6143 32
+Status FAIL: Num I/O not matching for 6143... Expected:32 Got:319
+
+
+Test case: NON_NDX_SEARCH Phone-of-6173 68
+Status FAIL: Num I/O not matching for 6173... Expected:68 Got:675
+
+
+Test case: NON_NDX_SEARCH Phone-of-6183 77
+Status FAIL: Num I/O not matching for 6183... Expected:77 Got:762
+
+
+Test case: NON_NDX_SEARCH Phone-of-6187 28
+Status FAIL: Num I/O not matching for 6187... Expected:28 Got:272
+
+
+Test case: NON_NDX_SEARCH Phone-of-6194 61
+Status FAIL: Num I/O not matching for 6194... Expected:61 Got:610
+
+
+Test case: NON_NDX_SEARCH Phone-of-6219 37
+Status FAIL: Num I/O not matching for 6219... Expected:37 Got:370
+
+
+Test case: NON_NDX_SEARCH Phone-of-6232 55
+Status FAIL: Num I/O not matching for 6232... Expected:55 Got:550
+
+
+Test case: NON_NDX_SEARCH Phone-of-6233 46
+Status FAIL: Num I/O not matching for 6233... Expected:46 Got:454
+
+
+Test case: NON_NDX_SEARCH Phone-of-6253 71
+Status FAIL: Num I/O not matching for 6253... Expected:71 Got:709
+
+
+Test case: NON_NDX_SEARCH Phone-of-6254 8
+Status FAIL: Num I/O not matching for 6254... Expected:8 Got:79
+
+
+Test case: NON_NDX_SEARCH Phone-of-6258 38
+Status FAIL: Num I/O not matching for 6258... Expected:38 Got:374
+
+
+Test case: NON_NDX_SEARCH Phone-of-6259 13
+Status FAIL: Num I/O not matching for 6259... Expected:13 Got:130
+
+
+Test case: NON_NDX_SEARCH Phone-of-6260 26
+Status FAIL: Num I/O not matching for 6260... Expected:26 Got:253
+
+
+Test case: NON_NDX_SEARCH Phone-of-6262 65
+Status FAIL: Num I/O not matching for 6262... Expected:65 Got:643
+
+
+Test case: NON_NDX_SEARCH Phone-of-6266 2
+Status FAIL: Num I/O not matching for 6266... Expected:2 Got:20
+
+
+Test case: NON_NDX_SEARCH Phone-of-6272 42
+Status FAIL: Num I/O not matching for 6272... Expected:42 Got:419
+
+
+Test case: NON_NDX_SEARCH Phone-of-6280 56
+Status FAIL: Num I/O not matching for 6280... Expected:56 Got:553
+
+
+Test case: NON_NDX_SEARCH Phone-of-6282 8
+Status FAIL: Num I/O not matching for 6282... Expected:8 Got:74
+
+
+Test case: NON_NDX_SEARCH Phone-of-6284 3
+Status FAIL: Num I/O not matching for 6284... Expected:3 Got:24
+
+
+Test case: NON_NDX_SEARCH Phone-of-6286 1
+Status FAIL: Num I/O not matching for 6286... Expected:1 Got:7
+
+
+Test case: NON_NDX_SEARCH Phone-of-6310 65
+Status FAIL: Num I/O not matching for 6310... Expected:65 Got:644
+
+
+Test case: NON_NDX_SEARCH Phone-of-6331 14
+Status FAIL: Num I/O not matching for 6331... Expected:14 Got:132
+
+
+Test case: NON_NDX_SEARCH Phone-of-6346 60
+Status FAIL: Num I/O not matching for 6346... Expected:60 Got:592
+
+
+Test case: NON_NDX_SEARCH Phone-of-6347 53
+Status FAIL: Num I/O not matching for 6347... Expected:53 Got:524
+
+
+Test case: NON_NDX_SEARCH Phone-of-6350 95
+Status FAIL: Num I/O not matching for 6350... Expected:95 Got:949
+
+
+Test case: NON_NDX_SEARCH Phone-of-6353 54
+Status FAIL: Num I/O not matching for 6353... Expected:54 Got:537
+
+
+Test case: NON_NDX_SEARCH Phone-of-6355 29
+Status FAIL: Num I/O not matching for 6355... Expected:29 Got:286
+
+
+Test case: NON_NDX_SEARCH Phone-of-6356 17
+Status FAIL: Num I/O not matching for 6356... Expected:17 Got:163
+
+
+Test case: NON_NDX_SEARCH Phone-of-6365 57
+Status FAIL: Num I/O not matching for 6365... Expected:57 Got:566
+
+
+Test case: NON_NDX_SEARCH Phone-of-6367 72
+Status FAIL: Num I/O not matching for 6367... Expected:72 Got:719
+
+
+Test case: NON_NDX_SEARCH Phone-of-6407 35
+Status FAIL: Num I/O not matching for 6407... Expected:35 Got:344
+
+
+Test case: NON_NDX_SEARCH Phone-of-6437 84
+Status FAIL: Num I/O not matching for 6437... Expected:84 Got:840
+
+
+Test case: NON_NDX_SEARCH Phone-of-6440 19
+Status FAIL: Num I/O not matching for 6440... Expected:19 Got:188
+
+
+Test case: NON_NDX_SEARCH Phone-of-6445 93
+Status FAIL: Num I/O not matching for 6445... Expected:93 Got:922
+
+
+Test case: NON_NDX_SEARCH Phone-of-6448 91
+Status FAIL: Num I/O not matching for 6448... Expected:91 Got:909
+
+
+Test case: NON_NDX_SEARCH Phone-of-6456 79
+Status FAIL: Num I/O not matching for 6456... Expected:79 Got:787
+
+
+Test case: NON_NDX_SEARCH Phone-of-6470 12
+Status FAIL: Num I/O not matching for 6470... Expected:12 Got:117
+
+
+Test case: NON_NDX_SEARCH Phone-of-6476 76
+Status FAIL: Num I/O not matching for 6476... Expected:76 Got:755
+
+
+Test case: NON_NDX_SEARCH Phone-of-6482 72
+Status FAIL: Num I/O not matching for 6482... Expected:72 Got:717
+
+
+Test case: NON_NDX_SEARCH Phone-of-6506 59
+Status FAIL: Num I/O not matching for 6506... Expected:59 Got:582
+
+
+Test case: NON_NDX_SEARCH Phone-of-6513 79
+Status FAIL: Num I/O not matching for 6513... Expected:79 Got:786
+
+
+Test case: NON_NDX_SEARCH Phone-of-6529 24
+Status FAIL: Num I/O not matching for 6529... Expected:24 Got:239
+
+
+Test case: NON_NDX_SEARCH Phone-of-6540 15
+Status FAIL: Num I/O not matching for 6540... Expected:15 Got:142
+
+
+Test case: NON_NDX_SEARCH Phone-of-6564 50
+Status FAIL: Num I/O not matching for 6564... Expected:50 Got:498
+
+
+Test case: NON_NDX_SEARCH Phone-of-6585 64
+Status FAIL: Num I/O not matching for 6585... Expected:64 Got:634
+
+
+Test case: NON_NDX_SEARCH Phone-of-6590 16
+Status FAIL: Num I/O not matching for 6590... Expected:16 Got:157
+
+
+Test case: NON_NDX_SEARCH Phone-of-6600 57
+Status FAIL: Num I/O not matching for 6600... Expected:57 Got:562
+
+
+Test case: NON_NDX_SEARCH Phone-of-6604 72
+Status FAIL: Num I/O not matching for 6604... Expected:72 Got:718
+
+
+Test case: NON_NDX_SEARCH Phone-of-6618 3
+Status FAIL: Num I/O not matching for 6618... Expected:3 Got:21
+
+
+Test case: NON_NDX_SEARCH Phone-of-6654 37
+Status FAIL: Num I/O not matching for 6654... Expected:37 Got:362
+
+
+Test case: NON_NDX_SEARCH Phone-of-6667 47
+Status FAIL: Num I/O not matching for 6667... Expected:47 Got:463
+
+
+Test case: NON_NDX_SEARCH Phone-of-6669 47
+Status FAIL: Num I/O not matching for 6669... Expected:47 Got:467
+
+
+Test case: NON_NDX_SEARCH Phone-of-6672 44
+Status FAIL: Num I/O not matching for 6672... Expected:44 Got:435
+
+
+Test case: NON_NDX_SEARCH Phone-of-6704 55
+Status FAIL: Num I/O not matching for 6704... Expected:55 Got:548
+
+
+Test case: NON_NDX_SEARCH Phone-of-6725 25
+Status FAIL: Num I/O not matching for 6725... Expected:25 Got:241
+
+
+Test case: NON_NDX_SEARCH Phone-of-6727 11
+Status FAIL: Num I/O not matching for 6727... Expected:11 Got:108
+
+
+Test case: NON_NDX_SEARCH Phone-of-6729 60
+Status FAIL: Num I/O not matching for 6729... Expected:60 Got:591
+
+
+Test case: NON_NDX_SEARCH Phone-of-6754 86
+Status FAIL: Num I/O not matching for 6754... Expected:86 Got:851
+
+
+Test case: NON_NDX_SEARCH Phone-of-6756 29
+Status FAIL: Num I/O not matching for 6756... Expected:29 Got:290
+
+
+Test case: NON_NDX_SEARCH Phone-of-6770 20
+Status FAIL: Num I/O not matching for 6770... Expected:20 Got:195
+
+
+Test case: NON_NDX_SEARCH Phone-of-6780 10
+Status FAIL: Num I/O not matching for 6780... Expected:10 Got:95
+
+
+Test case: NON_NDX_SEARCH Phone-of-6799 64
+Status FAIL: Num I/O not matching for 6799... Expected:64 Got:640
+
+
+Test case: NON_NDX_SEARCH Phone-of-6803 40
+Status FAIL: Num I/O not matching for 6803... Expected:40 Got:400
+
+
+Test case: NON_NDX_SEARCH Phone-of-6805 19
+Status FAIL: Num I/O not matching for 6805... Expected:19 Got:190
+
+
+Test case: NON_NDX_SEARCH Phone-of-6810 16
+Status FAIL: Num I/O not matching for 6810... Expected:16 Got:153
+
+
+Test case: NON_NDX_SEARCH Phone-of-6831 60
+Status FAIL: Num I/O not matching for 6831... Expected:60 Got:594
+
+
+Test case: NON_NDX_SEARCH Phone-of-6837 39
+Status FAIL: Num I/O not matching for 6837... Expected:39 Got:386
+
+
+Test case: NON_NDX_SEARCH Phone-of-6844 69
+Status FAIL: Num I/O not matching for 6844... Expected:69 Got:687
+
+
+Test case: NON_NDX_SEARCH Phone-of-6846 73
+Status FAIL: Num I/O not matching for 6846... Expected:73 Got:721
+
+
+Test case: NON_NDX_SEARCH Phone-of-6852 3
+Status FAIL: Num I/O not matching for 6852... Expected:3 Got:25
+
+
+Test case: NON_NDX_SEARCH Phone-of-6853 88
+Status FAIL: Num I/O not matching for 6853... Expected:88 Got:880
+
+
+Test case: NON_NDX_SEARCH Phone-of-6858 2
+Status FAIL: Num I/O not matching for 6858... Expected:2 Got:14
+
+
+Test case: NON_NDX_SEARCH Phone-of-6862 59
+Status FAIL: Num I/O not matching for 6862... Expected:59 Got:589
+
+
+Test case: NON_NDX_SEARCH Phone-of-6870 28
+Status FAIL: Num I/O not matching for 6870... Expected:28 Got:278
+
+
+Test case: NON_NDX_SEARCH Phone-of-6871 15
+Status FAIL: Num I/O not matching for 6871... Expected:15 Got:149
+
+
+Test case: NON_NDX_SEARCH Phone-of-6880 19
+Status FAIL: Num I/O not matching for 6880... Expected:19 Got:181
+
+
+Test case: NON_NDX_SEARCH Phone-of-6917 44
+Status FAIL: Num I/O not matching for 6917... Expected:44 Got:440
+
+
+Test case: NON_NDX_SEARCH Phone-of-6936 34
+Status FAIL: Num I/O not matching for 6936... Expected:34 Got:338
+
+
+Test case: NON_NDX_SEARCH Phone-of-6951 19
+Status FAIL: Num I/O not matching for 6951... Expected:19 Got:184
+
+
+Test case: NON_NDX_SEARCH Phone-of-6955 50
+Status FAIL: Num I/O not matching for 6955... Expected:50 Got:492
+
+
+Test case: NON_NDX_SEARCH Phone-of-6956 47
+Status FAIL: Num I/O not matching for 6956... Expected:47 Got:465
+
+
+Test case: NON_NDX_SEARCH Phone-of-6967 82
+Status FAIL: Num I/O not matching for 6967... Expected:82 Got:815
+
+
+Test case: NON_NDX_SEARCH Phone-of-6971 9
+Status FAIL: Num I/O not matching for 6971... Expected:9 Got:90
+
+
+Test case: NON_NDX_SEARCH Phone-of-6980 78
+Status FAIL: Num I/O not matching for 6980... Expected:78 Got:771
+
+
+Test case: NON_NDX_SEARCH Phone-of-6981 24
+Status FAIL: Num I/O not matching for 6981... Expected:24 Got:237
+
+
+Test case: NON_NDX_SEARCH Phone-of-6982 29
+Status FAIL: Num I/O not matching for 6982... Expected:29 Got:285
+
+
+Test case: NON_NDX_SEARCH Phone-of-6987 9
+Status FAIL: Num I/O not matching for 6987... Expected:9 Got:88
+
+
+Test case: NON_NDX_SEARCH Phone-of-6990 18
+Status FAIL: Num I/O not matching for 6990... Expected:18 Got:172
+
+
+Test case: NON_NDX_SEARCH Phone-of-6995 48
+Status FAIL: Num I/O not matching for 6995... Expected:48 Got:471
+
+
+Test case: NON_NDX_SEARCH Phone-of-6998 54
+Status FAIL: Num I/O not matching for 6998... Expected:54 Got:535
+
+
+Test case: NON_NDX_SEARCH Phone-of-7000 47
+Status FAIL: Num I/O not matching for 7000... Expected:47 Got:470
+
+
+Test case: NON_NDX_SEARCH Phone-of-7001 13
+Status FAIL: Num I/O not matching for 7001... Expected:13 Got:124
+
+
+Test case: NON_NDX_SEARCH Phone-of-7002 90
+Status FAIL: Num I/O not matching for 7002... Expected:90 Got:898
+
+
+Test case: NON_NDX_SEARCH Phone-of-7006 34
+Status FAIL: Num I/O not matching for 7006... Expected:34 Got:333
+
+
+Test case: NON_NDX_SEARCH Phone-of-7010 85
+Status FAIL: Num I/O not matching for 7010... Expected:85 Got:843
+
+
+Test case: NON_NDX_SEARCH Phone-of-7023 36
+Status FAIL: Num I/O not matching for 7023... Expected:36 Got:355
+
+
+Test case: NON_NDX_SEARCH Phone-of-7081 19
+Status FAIL: Num I/O not matching for 7081... Expected:19 Got:183
+
+
+Test case: NON_NDX_SEARCH Phone-of-7084 23
+Status FAIL: Num I/O not matching for 7084... Expected:23 Got:229
+
+
+Test case: NON_NDX_SEARCH Phone-of-7085 4
+Status FAIL: Num I/O not matching for 7085... Expected:4 Got:33
+
+
+Test case: NON_NDX_SEARCH Phone-of-7087 57
+Status FAIL: Num I/O not matching for 7087... Expected:57 Got:564
+
+
+Test case: NON_NDX_SEARCH Phone-of-7092 62
+Status FAIL: Num I/O not matching for 7092... Expected:62 Got:618
+
+
+Test case: NON_NDX_SEARCH Phone-of-7099 30
+Status FAIL: Num I/O not matching for 7099... Expected:30 Got:297
+
+
+Test case: NON_NDX_SEARCH Phone-of-7100 68
+Status FAIL: Num I/O not matching for 7100... Expected:68 Got:680
+
+
+Test case: NON_NDX_SEARCH Phone-of-7105 30
+Status FAIL: Num I/O not matching for 7105... Expected:30 Got:291
+
+
+Test case: NON_NDX_SEARCH Phone-of-7114 8
+Status FAIL: Num I/O not matching for 7114... Expected:8 Got:72
+
+
+Test case: NON_NDX_SEARCH Phone-of-7132 53
+Status FAIL: Num I/O not matching for 7132... Expected:53 Got:528
+
+
+Test case: NON_NDX_SEARCH Phone-of-7178 65
+Status FAIL: Num I/O not matching for 7178... Expected:65 Got:647
+
+
+Test case: NON_NDX_SEARCH Phone-of-7184 14
+Status FAIL: Num I/O not matching for 7184... Expected:14 Got:136
+
+
+Test case: NON_NDX_SEARCH Phone-of-7185 74
+Status FAIL: Num I/O not matching for 7185... Expected:74 Got:736
+
+
+Test case: NON_NDX_SEARCH Phone-of-7219 61
+Status FAIL: Num I/O not matching for 7219... Expected:61 Got:607
+
+
+Test case: NON_NDX_SEARCH Phone-of-7222 17
+Status FAIL: Num I/O not matching for 7222... Expected:17 Got:167
+
+
+Test case: NON_NDX_SEARCH Phone-of-7242 13
+Status FAIL: Num I/O not matching for 7242... Expected:13 Got:125
+
+
+Test case: NON_NDX_SEARCH Phone-of-7245 95
+Status FAIL: Num I/O not matching for 7245... Expected:95 Got:948
+
+
+Test case: NON_NDX_SEARCH Phone-of-7253 43
+Status FAIL: Num I/O not matching for 7253... Expected:43 Got:430
+
+
+Test case: NON_NDX_SEARCH Phone-of-7262 10
+Status FAIL: Num I/O not matching for 7262... Expected:10 Got:100
+
+
+Test case: NON_NDX_SEARCH Phone-of-7268 64
+Status FAIL: Num I/O not matching for 7268... Expected:64 Got:635
+
+
+Test case: NON_NDX_SEARCH Phone-of-7269 44
+Status FAIL: Num I/O not matching for 7269... Expected:44 Got:431
+
+
+Test case: NON_NDX_SEARCH Phone-of-7289 85
+Status FAIL: Num I/O not matching for 7289... Expected:85 Got:850
+
+
+Test case: NON_NDX_SEARCH Phone-of-7295 18
+Status FAIL: Num I/O not matching for 7295... Expected:18 Got:177
+
+
+Test case: NON_NDX_SEARCH Phone-of-7299 37
+Status FAIL: Num I/O not matching for 7299... Expected:37 Got:364
+
+
+Test case: NON_NDX_SEARCH Phone-of-7304 85
+Status FAIL: Num I/O not matching for 7304... Expected:85 Got:841
+
+
+Test case: NON_NDX_SEARCH Phone-of-7311 48
+Status FAIL: Num I/O not matching for 7311... Expected:48 Got:479
+
+
+Test case: NON_NDX_SEARCH Phone-of-7337 13
+Status FAIL: Num I/O not matching for 7337... Expected:13 Got:129
+
+
+Test case: NON_NDX_SEARCH Phone-of-7339 27
+Status FAIL: Num I/O not matching for 7339... Expected:27 Got:266
+
+
+Test case: NON_NDX_SEARCH Phone-of-7350 83
+Status FAIL: Num I/O not matching for 7350... Expected:83 Got:825
+
+
+Test case: NON_NDX_SEARCH Phone-of-7358 84
+Status FAIL: Num I/O not matching for 7358... Expected:84 Got:835
+
+
+Test case: NON_NDX_SEARCH Phone-of-7366 93
+Status FAIL: Num I/O not matching for 7366... Expected:93 Got:924
+
+
+Test case: NON_NDX_SEARCH Phone-of-7387 20
+Status FAIL: Num I/O not matching for 7387... Expected:20 Got:198
+
+
+Test case: NON_NDX_SEARCH Phone-of-7395 75
+Status FAIL: Num I/O not matching for 7395... Expected:75 Got:747
+
+
+Test case: NON_NDX_SEARCH Phone-of-7405 25
+Status FAIL: Num I/O not matching for 7405... Expected:25 Got:249
+
+
+Test case: NON_NDX_SEARCH Phone-of-7408 16
+Status FAIL: Num I/O not matching for 7408... Expected:16 Got:156
+
+
+Test case: NON_NDX_SEARCH Phone-of-7426 82
+Status FAIL: Num I/O not matching for 7426... Expected:82 Got:819
+
+
+Test case: NON_NDX_SEARCH Phone-of-7444 91
+Status FAIL: Num I/O not matching for 7444... Expected:91 Got:906
+
+
+Test case: NON_NDX_SEARCH Phone-of-7447 94
+Status FAIL: Num I/O not matching for 7447... Expected:94 Got:933
+
+
+Test case: NON_NDX_SEARCH Phone-of-7464 13
+Status FAIL: Num I/O not matching for 7464... Expected:13 Got:123
+
+
+Test case: NON_NDX_SEARCH Phone-of-7490 2
+Status FAIL: Num I/O not matching for 7490... Expected:2 Got:13
+
+
+Test case: NON_NDX_SEARCH Phone-of-7497 6
+Status FAIL: Num I/O not matching for 7497... Expected:6 Got:53
+
+
+Test case: NON_NDX_SEARCH Phone-of-7522 41
+Status FAIL: Num I/O not matching for 7522... Expected:41 Got:408
+
+
+Test case: NON_NDX_SEARCH Phone-of-7525 24
+Status FAIL: Num I/O not matching for 7525... Expected:24 Got:232
+
+
+Test case: NON_NDX_SEARCH Phone-of-7536 40
+Status FAIL: Num I/O not matching for 7536... Expected:40 Got:399
+
+
+Test case: NON_NDX_SEARCH Phone-of-7547 81
+Status FAIL: Num I/O not matching for 7547... Expected:81 Got:801
+
+
+Test case: NON_NDX_SEARCH Phone-of-7549 52
+Status FAIL: Num I/O not matching for 7549... Expected:52 Got:511
+
+
+Test case: NON_NDX_SEARCH Phone-of-7550 51
+Status FAIL: Num I/O not matching for 7550... Expected:51 Got:501
+
+
+Test case: NON_NDX_SEARCH Phone-of-7556 68
+Status FAIL: Num I/O not matching for 7556... Expected:68 Got:671
+
+
+Test case: NON_NDX_SEARCH Phone-of-7561 39
+Status FAIL: Num I/O not matching for 7561... Expected:39 Got:390
+
+
+Test case: NON_NDX_SEARCH Phone-of-7566 70
+Status FAIL: Num I/O not matching for 7566... Expected:70 Got:695
+
+
+Test case: NON_NDX_SEARCH Phone-of-7581 18
+Status FAIL: Num I/O not matching for 7581... Expected:18 Got:178
+
+
+Test case: NON_NDX_SEARCH Phone-of-7594 80
+Status FAIL: Num I/O not matching for 7594... Expected:80 Got:798
+
+
+Test case: NON_NDX_SEARCH Phone-of-7596 33
+Status FAIL: Num I/O not matching for 7596... Expected:33 Got:329
+
+
+Test case: NON_NDX_SEARCH Phone-of-7606 63
+Status FAIL: Num I/O not matching for 7606... Expected:63 Got:629
+
+
+Test case: NON_NDX_SEARCH Phone-of-7616 52
+Status FAIL: Num I/O not matching for 7616... Expected:52 Got:516
+
+
+Test case: NON_NDX_SEARCH Phone-of-7620 46
+Status FAIL: Num I/O not matching for 7620... Expected:46 Got:451
+
+
+Test case: NON_NDX_SEARCH Phone-of-7635 95
+Status FAIL: Num I/O not matching for 7635... Expected:95 Got:947
+
+
+Test case: NON_NDX_SEARCH Phone-of-7638 21
+Status FAIL: Num I/O not matching for 7638... Expected:21 Got:208
+
+
+Test case: NON_NDX_SEARCH Phone-of-7641 94
+Status FAIL: Num I/O not matching for 7641... Expected:94 Got:934
+
+
+Test case: NON_NDX_SEARCH Phone-of-7668 63
+Status FAIL: Num I/O not matching for 7668... Expected:63 Got:627
+
+
+Test case: NON_NDX_SEARCH Phone-of-7669 32
+Status FAIL: Num I/O not matching for 7669... Expected:32 Got:315
+
+
+Test case: NON_NDX_SEARCH Phone-of-7686 88
+Status FAIL: Num I/O not matching for 7686... Expected:88 Got:879
+
+
+Test case: NON_NDX_SEARCH Phone-of-7687 87
+Status FAIL: Num I/O not matching for 7687... Expected:87 Got:870
+
+
+Test case: NON_NDX_SEARCH Phone-of-7688 14
+Status FAIL: Num I/O not matching for 7688... Expected:14 Got:134
+
+
+Test case: NON_NDX_SEARCH Phone-of-7693 17
+Status FAIL: Num I/O not matching for 7693... Expected:17 Got:166
+
+
+Test case: NON_NDX_SEARCH Phone-of-7694 41
+Status FAIL: Num I/O not matching for 7694... Expected:41 Got:407
+
+
+Test case: NON_NDX_SEARCH Phone-of-7696 28
+Status FAIL: Num I/O not matching for 7696... Expected:28 Got:273
+
+
+Test case: NON_NDX_SEARCH Phone-of-7704 10
+Status FAIL: Num I/O not matching for 7704... Expected:10 Got:93
+
+
+Test case: NON_NDX_SEARCH Phone-of-7719 46
+Status FAIL: Num I/O not matching for 7719... Expected:46 Got:458
+
+
+Test case: NON_NDX_SEARCH Phone-of-7726 71
+Status FAIL: Num I/O not matching for 7726... Expected:71 Got:701
+
+
+Test case: NON_NDX_SEARCH Phone-of-7731 92
+Status FAIL: Num I/O not matching for 7731... Expected:92 Got:919
+
+
+Test case: NON_NDX_SEARCH Phone-of-7732 72
+Status FAIL: Num I/O not matching for 7732... Expected:72 Got:713
+
+
+Test case: NON_NDX_SEARCH Phone-of-7736 73
+Status FAIL: Num I/O not matching for 7736... Expected:73 Got:727
+
+
+Test case: NON_NDX_SEARCH Phone-of-7737 66
+Status FAIL: Num I/O not matching for 7737... Expected:66 Got:654
+
+
+Test case: NON_NDX_SEARCH Phone-of-7753 81
+Status FAIL: Num I/O not matching for 7753... Expected:81 Got:806
+
+
+Test case: NON_NDX_SEARCH Phone-of-7759 10
+Status FAIL: Num I/O not matching for 7759... Expected:10 Got:92
+
+
+Test case: NON_NDX_SEARCH Phone-of-7764 67
+Status FAIL: Num I/O not matching for 7764... Expected:67 Got:665
+
+
+Test case: NON_NDX_SEARCH Phone-of-7766 17
+Status FAIL: Num I/O not matching for 7766... Expected:17 Got:169
+
+
+Test case: NON_NDX_SEARCH Phone-of-7775 74
+Status FAIL: Num I/O not matching for 7775... Expected:74 Got:734
+
+
+Test case: NON_NDX_SEARCH Phone-of-7787 69
+Status FAIL: Num I/O not matching for 7787... Expected:69 Got:683
+
+
+Test case: NON_NDX_SEARCH Phone-of-7789 78
+Status FAIL: Num I/O not matching for 7789... Expected:78 Got:778
+
+
+Test case: NON_NDX_SEARCH Phone-of-7791 24
+Status FAIL: Num I/O not matching for 7791... Expected:24 Got:231
+
+
+Test case: NON_NDX_SEARCH Phone-of-7806 67
+Status FAIL: Num I/O not matching for 7806... Expected:67 Got:667
+
+
+Test case: NON_NDX_SEARCH Phone-of-7814 78
+Status FAIL: Num I/O not matching for 7814... Expected:78 Got:777
+
+
+Test case: NON_NDX_SEARCH Phone-of-7829 54
+Status FAIL: Num I/O not matching for 7829... Expected:54 Got:539
+
+
+Test case: NON_NDX_SEARCH Phone-of-7832 6
+Status FAIL: Num I/O not matching for 7832... Expected:6 Got:58
+
+
+Test case: NON_NDX_SEARCH Phone-of-7840 28
+Status FAIL: Num I/O not matching for 7840... Expected:28 Got:271
+
+
+Test case: NON_NDX_SEARCH Phone-of-7845 43
+Status FAIL: Num I/O not matching for 7845... Expected:43 Got:423
+
+
+Test case: NON_NDX_SEARCH Phone-of-7859 65
+Status FAIL: Num I/O not matching for 7859... Expected:65 Got:645
+
+
+Test case: NON_NDX_SEARCH Phone-of-7874 84
+Status FAIL: Num I/O not matching for 7874... Expected:84 Got:832
+
+
+Test case: NON_NDX_SEARCH Phone-of-7884 70
+Status FAIL: Num I/O not matching for 7884... Expected:70 Got:697
+
+
+Test case: NON_NDX_SEARCH Phone-of-7891 40
+Status FAIL: Num I/O not matching for 7891... Expected:40 Got:394
+
+
+Test case: NON_NDX_SEARCH Phone-of-7923 76
+Status FAIL: Num I/O not matching for 7923... Expected:76 Got:758
+
+
+Test case: NON_NDX_SEARCH Phone-of-7929 95
+Status FAIL: Num I/O not matching for 7929... Expected:95 Got:943
+
+
+Test case: NON_NDX_SEARCH Phone-of-7933 67
+Status FAIL: Num I/O not matching for 7933... Expected:67 Got:662
+
+
+Test case: NON_NDX_SEARCH Phone-of-7934 38
+Status FAIL: Num I/O not matching for 7934... Expected:38 Got:375
+
+
+Test case: NON_NDX_SEARCH Phone-of-7943 16
+Status FAIL: Num I/O not matching for 7943... Expected:16 Got:154
+
+
+Test case: NON_NDX_SEARCH Phone-of-7946 44
+Status FAIL: Num I/O not matching for 7946... Expected:44 Got:439
+
+
+Test case: NON_NDX_SEARCH Phone-of-7948 94
+Status FAIL: Num I/O not matching for 7948... Expected:94 Got:938
+
+
+Test case: NON_NDX_SEARCH Phone-of-7977 41
+Status FAIL: Num I/O not matching for 7977... Expected:41 Got:404
+
+
+Test case: NON_NDX_SEARCH Phone-of-7984 43
+Status FAIL: Num I/O not matching for 7984... Expected:43 Got:426
+
+
+Test case: NON_NDX_SEARCH Phone-of-7992 65
+Status FAIL: Num I/O not matching for 7992... Expected:65 Got:646
+
+
+Test case: NON_NDX_SEARCH Phone-of-7998 61
+Status FAIL: Num I/O not matching for 7998... Expected:61 Got:605
+
+
+Test case: NON_NDX_SEARCH Phone-of-8000 46
+Status FAIL: Num I/O not matching for 8000... Expected:46 Got:457
+
+
+Test case: NON_NDX_SEARCH Phone-of-8019 76
+Status FAIL: Num I/O not matching for 8019... Expected:76 Got:754
+
+
+Test case: NON_NDX_SEARCH Phone-of-8021 50
+Status FAIL: Num I/O not matching for 8021... Expected:50 Got:495
+
+
+Test case: NON_NDX_SEARCH Phone-of-8025 80
+Status FAIL: Num I/O not matching for 8025... Expected:80 Got:793
+
+
+Test case: NON_NDX_SEARCH Phone-of-8037 55
+Status FAIL: Num I/O not matching for 8037... Expected:55 Got:543
+
+
+Test case: NON_NDX_SEARCH Phone-of-8054 39
+Status FAIL: Num I/O not matching for 8054... Expected:39 Got:381
+
+
+Test case: NON_NDX_SEARCH Phone-of-8065 48
+Status FAIL: Num I/O not matching for 8065... Expected:48 Got:476
+
+
+Test case: NON_NDX_SEARCH Phone-of-8074 16
+Status FAIL: Num I/O not matching for 8074... Expected:16 Got:159
+
+
+Test case: NON_NDX_SEARCH Phone-of-8088 22
+Status FAIL: Num I/O not matching for 8088... Expected:22 Got:211
+
+
+Test case: NON_NDX_SEARCH Phone-of-8094 42
+Status FAIL: Num I/O not matching for 8094... Expected:42 Got:412
+
+
+Test case: NON_NDX_SEARCH Phone-of-8097 44
+Status FAIL: Num I/O not matching for 8097... Expected:44 Got:433
+
+
+Test case: NON_NDX_SEARCH Phone-of-8100 91
+Status FAIL: Num I/O not matching for 8100... Expected:91 Got:910
+
+
+Test case: NON_NDX_SEARCH Phone-of-8113 70
+Status FAIL: Num I/O not matching for 8113... Expected:70 Got:694
+
+
+Test case: NON_NDX_SEARCH Phone-of-8129 89
+Status FAIL: Num I/O not matching for 8129... Expected:89 Got:882
+
+
+Test case: NON_NDX_SEARCH Phone-of-8143 53
+Status FAIL: Num I/O not matching for 8143... Expected:53 Got:529
+
+
+Test case: NON_NDX_SEARCH Phone-of-8151 59
+Status FAIL: Num I/O not matching for 8151... Expected:59 Got:590
+
+
+Test case: NON_NDX_SEARCH Phone-of-8152 22
+Status FAIL: Num I/O not matching for 8152... Expected:22 Got:219
+
+
+Test case: NON_NDX_SEARCH Phone-of-8192 67
+Status FAIL: Num I/O not matching for 8192... Expected:67 Got:663
+
+
+Test case: NON_NDX_SEARCH Phone-of-8206 7
+Status FAIL: Num I/O not matching for 8206... Expected:7 Got:66
+
+
+Test case: NON_NDX_SEARCH Phone-of-8207 83
+Status FAIL: Num I/O not matching for 8207... Expected:83 Got:827
+
+
+Test case: NON_NDX_SEARCH Phone-of-8214 75
+Status FAIL: Num I/O not matching for 8214... Expected:75 Got:741
+
+
+Test case: NON_NDX_SEARCH Phone-of-8240 83
+Status FAIL: Num I/O not matching for 8240... Expected:83 Got:823
+
+
+Test case: NON_NDX_SEARCH Phone-of-8244 30
+Status FAIL: Num I/O not matching for 8244... Expected:30 Got:300
+
+
+Test case: NON_NDX_SEARCH Phone-of-8246 52
+Status FAIL: Num I/O not matching for 8246... Expected:52 Got:515
+
+
+Test case: NON_NDX_SEARCH Phone-of-8251 25
+Status FAIL: Num I/O not matching for 8251... Expected:25 Got:245
+
+
+Test case: NON_NDX_SEARCH Phone-of-8253 26
+Status FAIL: Num I/O not matching for 8253... Expected:26 Got:252
+
+
+Test case: NON_NDX_SEARCH Phone-of-8281 31
+Status FAIL: Num I/O not matching for 8281... Expected:31 Got:304
+
+
+Test case: NON_NDX_SEARCH Phone-of-8291 92
+Status FAIL: Num I/O not matching for 8291... Expected:92 Got:914
+
+
+Test case: NON_NDX_SEARCH Phone-of-8305 29
+Status FAIL: Num I/O not matching for 8305... Expected:29 Got:283
+
+
+Test case: NON_NDX_SEARCH Phone-of-8309 73
+Status FAIL: Num I/O not matching for 8309... Expected:73 Got:725
+
+
+Test case: NON_NDX_SEARCH Phone-of-8324 1
+Status FAIL: Num I/O not matching for 8324... Expected:1 Got:9
+
+
+Test case: NON_NDX_SEARCH Phone-of-8326 31
+Status FAIL: Num I/O not matching for 8326... Expected:31 Got:307
+
+
+Test case: NON_NDX_SEARCH Phone-of-8352 94
+Status FAIL: Num I/O not matching for 8352... Expected:94 Got:935
+
+
+Test case: NON_NDX_SEARCH Phone-of-8354 55
+Status FAIL: Num I/O not matching for 8354... Expected:55 Got:542
+
+
+Test case: NON_NDX_SEARCH Phone-of-8359 14
+Status FAIL: Num I/O not matching for 8359... Expected:14 Got:138
+
+
+Test case: NON_NDX_SEARCH Phone-of-8363 52
+Status FAIL: Num I/O not matching for 8363... Expected:52 Got:513
+
+
+Test case: NON_NDX_SEARCH Phone-of-8377 28
+Status FAIL: Num I/O not matching for 8377... Expected:28 Got:274
+
+
+Test case: NON_NDX_SEARCH Phone-of-8392 77
+Status FAIL: Num I/O not matching for 8392... Expected:77 Got:764
+
+
+Test case: NON_NDX_SEARCH Phone-of-8409 18
+Status FAIL: Num I/O not matching for 8409... Expected:18 Got:174
+
+
+Test case: NON_NDX_SEARCH Phone-of-8414 81
+Status FAIL: Num I/O not matching for 8414... Expected:81 Got:809
+
+
+Test case: NON_NDX_SEARCH Phone-of-8415 27
+Status FAIL: Num I/O not matching for 8415... Expected:27 Got:269
+
+
+Test case: NON_NDX_SEARCH Phone-of-8430 37
+Status FAIL: Num I/O not matching for 8430... Expected:37 Got:365
+
+
+Test case: NON_NDX_SEARCH Phone-of-8431 78
+Status FAIL: Num I/O not matching for 8431... Expected:78 Got:774
+
+
+Test case: NON_NDX_SEARCH Phone-of-8443 59
+Status FAIL: Num I/O not matching for 8443... Expected:59 Got:581
+
+
+Test case: NON_NDX_SEARCH Phone-of-8458 36
+Status FAIL: Num I/O not matching for 8458... Expected:36 Got:353
+
+
+Test case: NON_NDX_SEARCH Phone-of-8459 28
+Status FAIL: Num I/O not matching for 8459... Expected:28 Got:279
+
+
+Test case: NON_NDX_SEARCH Phone-of-8464 84
+Status FAIL: Num I/O not matching for 8464... Expected:84 Got:833
+
+
+Test case: NON_NDX_SEARCH Phone-of-8467 25
+Status FAIL: Num I/O not matching for 8467... Expected:25 Got:244
+
+
+Test case: NON_NDX_SEARCH Phone-of-8468 73
+Status FAIL: Num I/O not matching for 8468... Expected:73 Got:723
+
+
+Test case: NON_NDX_SEARCH Phone-of-8473 83
+Status FAIL: Num I/O not matching for 8473... Expected:83 Got:822
+
+
+Test case: NON_NDX_SEARCH Phone-of-8480 90
+Status FAIL: Num I/O not matching for 8480... Expected:90 Got:893
+
+
+Test case: NON_NDX_SEARCH Phone-of-8483 46
+Status FAIL: Num I/O not matching for 8483... Expected:46 Got:452
+
+
+Test case: NON_NDX_SEARCH Phone-of-8485 76
+Status FAIL: Num I/O not matching for 8485... Expected:76 Got:760
+
+
+Test case: NON_NDX_SEARCH Phone-of-8493 40
+Status FAIL: Num I/O not matching for 8493... Expected:40 Got:395
+
+
+Test case: NON_NDX_SEARCH Phone-of-8498 7
+Status FAIL: Num I/O not matching for 8498... Expected:7 Got:70
+
+
+Test case: NON_NDX_SEARCH Phone-of-8507 41
+Status FAIL: Num I/O not matching for 8507... Expected:41 Got:409
+
+
+Test case: NON_NDX_SEARCH Phone-of-8516 47
+Status FAIL: Num I/O not matching for 8516... Expected:47 Got:464
+
+
+Test case: NON_NDX_SEARCH Phone-of-8526 81
+Status FAIL: Num I/O not matching for 8526... Expected:81 Got:807
+
+
+Test case: NON_NDX_SEARCH Phone-of-8527 86
+Status FAIL: Num I/O not matching for 8527... Expected:86 Got:852
+
+
+Test case: NON_NDX_SEARCH Phone-of-8536 60
+Status FAIL: Num I/O not matching for 8536... Expected:60 Got:595
+
+
+Test case: NON_NDX_SEARCH Phone-of-8542 6
+Status FAIL: Num I/O not matching for 8542... Expected:6 Got:55
+
+
+Test case: NON_NDX_SEARCH Phone-of-8559 29
+Status FAIL: Num I/O not matching for 8559... Expected:29 Got:284
+
+
+Test case: NON_NDX_SEARCH Phone-of-8565 77
+Status FAIL: Num I/O not matching for 8565... Expected:77 Got:770
+
+
+Test case: NON_NDX_SEARCH Phone-of-8572 65
+Status FAIL: Num I/O not matching for 8572... Expected:65 Got:650
+
+
+Test case: NON_NDX_SEARCH Phone-of-8582 55
+Status FAIL: Num I/O not matching for 8582... Expected:55 Got:549
+
+
+Test case: NON_NDX_SEARCH Phone-of-8593 50
+Status FAIL: Num I/O not matching for 8593... Expected:50 Got:491
+
+
+Test case: NON_NDX_SEARCH Phone-of-8617 82
+Status FAIL: Num I/O not matching for 8617... Expected:82 Got:816
+
+
+Test case: NON_NDX_SEARCH Phone-of-8632 30
+Status FAIL: Num I/O not matching for 8632... Expected:30 Got:296
+
+
+Test case: NON_NDX_SEARCH Phone-of-8653 30
+Status FAIL: Num I/O not matching for 8653... Expected:30 Got:293
+
+
+Test case: NON_NDX_SEARCH Phone-of-8661 49
+Status FAIL: Num I/O not matching for 8661... Expected:49 Got:483
+
+
+Test case: NON_NDX_SEARCH Phone-of-8675 95
+Status FAIL: Num I/O not matching for 8675... Expected:95 Got:945
+
+
+Test case: NON_NDX_SEARCH Phone-of-8676 35
+Status FAIL: Num I/O not matching for 8676... Expected:35 Got:346
+
+
+Test case: NON_NDX_SEARCH Phone-of-8682 28
+Status FAIL: Num I/O not matching for 8682... Expected:28 Got:277
+
+
+Test case: NON_NDX_SEARCH Phone-of-8689 53
+Status FAIL: Num I/O not matching for 8689... Expected:53 Got:530
+
+
+Test case: NON_NDX_SEARCH Phone-of-8691 34
+Status FAIL: Num I/O not matching for 8691... Expected:34 Got:336
+
+
+Test case: NON_NDX_SEARCH Phone-of-8694 6
+Status FAIL: Num I/O not matching for 8694... Expected:6 Got:54
+
+
+Test case: NON_NDX_SEARCH Phone-of-8696 52
+Status FAIL: Num I/O not matching for 8696... Expected:52 Got:519
+
+
+Test case: NON_NDX_SEARCH Phone-of-8727 75
+Status FAIL: Num I/O not matching for 8727... Expected:75 Got:748
+
+
+Test case: NON_NDX_SEARCH Phone-of-8731 31
+Status FAIL: Num I/O not matching for 8731... Expected:31 Got:302
+
+
+Test case: NON_NDX_SEARCH Phone-of-8732 56
+Status FAIL: Num I/O not matching for 8732... Expected:56 Got:556
+
+
+Test case: NON_NDX_SEARCH Phone-of-8736 57
+Status FAIL: Num I/O not matching for 8736... Expected:57 Got:570
+
+
+Test case: NON_NDX_SEARCH Phone-of-8741 18
+Status FAIL: Num I/O not matching for 8741... Expected:18 Got:173
+
+
+Test case: NON_NDX_SEARCH Phone-of-8746 57
+Status FAIL: Num I/O not matching for 8746... Expected:57 Got:565
+
+
+Test case: NON_NDX_SEARCH Phone-of-8748 67
+Status FAIL: Num I/O not matching for 8748... Expected:67 Got:670
+
+
+Test case: NON_NDX_SEARCH Phone-of-8794 31
+Status FAIL: Num I/O not matching for 8794... Expected:31 Got:309
+
+
+Test case: NON_NDX_SEARCH Phone-of-8802 66
+Status FAIL: Num I/O not matching for 8802... Expected:66 Got:656
+
+
+Test case: NON_NDX_SEARCH Phone-of-8811 25
+Status FAIL: Num I/O not matching for 8811... Expected:25 Got:242
+
+
+Test case: NON_NDX_SEARCH Phone-of-8821 79
+Status FAIL: Num I/O not matching for 8821... Expected:79 Got:785
+
+
+Test case: NON_NDX_SEARCH Phone-of-8834 51
+Status FAIL: Num I/O not matching for 8834... Expected:51 Got:506
+
+
+Test case: NON_NDX_SEARCH Phone-of-8840 74
+Status FAIL: Num I/O not matching for 8840... Expected:74 Got:740
+
+
+Test case: NON_NDX_SEARCH Phone-of-8845 22
+Status FAIL: Num I/O not matching for 8845... Expected:22 Got:213
+
+
+Test case: NON_NDX_SEARCH Phone-of-8861 8
+Status FAIL: Num I/O not matching for 8861... Expected:8 Got:77
+
+
+Test case: NON_NDX_SEARCH Phone-of-8881 87
+Status FAIL: Num I/O not matching for 8881... Expected:87 Got:866
+
+
+Test case: NON_NDX_SEARCH Phone-of-8884 43
+Status FAIL: Num I/O not matching for 8884... Expected:43 Got:428
+
+
+Test case: NON_NDX_SEARCH Phone-of-8885 37
+Status FAIL: Num I/O not matching for 8885... Expected:37 Got:369
+
+
+Test case: NON_NDX_SEARCH Phone-of-8908 23
+Status FAIL: Num I/O not matching for 8908... Expected:23 Got:228
+
+
+Test case: NON_NDX_SEARCH Phone-of-8914 21
+Status FAIL: Num I/O not matching for 8914... Expected:21 Got:202
+
+
+Test case: NON_NDX_SEARCH Phone-of-8926 84
+Status FAIL: Num I/O not matching for 8926... Expected:84 Got:838
+
+
+Test case: NON_NDX_SEARCH Phone-of-8927 15
+Status FAIL: Num I/O not matching for 8927... Expected:15 Got:144
+
+
+Test case: NON_NDX_SEARCH Phone-of-8934 73
+Status FAIL: Num I/O not matching for 8934... Expected:73 Got:728
+
+
+Test case: NON_NDX_SEARCH Phone-of-8938 12
+Status FAIL: Num I/O not matching for 8938... Expected:12 Got:112
+
+
+Test case: NON_NDX_SEARCH Phone-of-8945 45
+Status FAIL: Num I/O not matching for 8945... Expected:45 Got:446
+
+
+Test case: NON_NDX_SEARCH Phone-of-8952 92
+Status FAIL: Num I/O not matching for 8952... Expected:92 Got:918
+
+
+Test case: NON_NDX_SEARCH Phone-of-8971 75
+Status FAIL: Num I/O not matching for 8971... Expected:75 Got:742
+
+
+Test case: NON_NDX_SEARCH Phone-of-8975 10
+Status FAIL: Num I/O not matching for 8975... Expected:10 Got:98
+
+
+Test case: NON_NDX_SEARCH Phone-of-8981 46
+Status FAIL: Num I/O not matching for 8981... Expected:46 Got:460
+
+
+Test case: NON_NDX_SEARCH Phone-of-8992 48
+Status FAIL: Num I/O not matching for 8992... Expected:48 Got:472
+
+
+Test case: NON_NDX_SEARCH Phone-of-8993 79
+Status FAIL: Num I/O not matching for 8993... Expected:79 Got:781
+
+
+Test case: NON_NDX_SEARCH Phone-of-9014 68
+Status FAIL: Num I/O not matching for 9014... Expected:68 Got:676
+
+
+Test case: NON_NDX_SEARCH Phone-of-9016 33
+Status FAIL: Num I/O not matching for 9016... Expected:33 Got:327
+
+
+Test case: NON_NDX_SEARCH Phone-of-9036 4
+Status FAIL: Num I/O not matching for 9036... Expected:4 Got:35
+
+
+Test case: NON_NDX_SEARCH Phone-of-9042 70
+Status FAIL: Num I/O not matching for 9042... Expected:70 Got:696
+
+
+Test case: NON_NDX_SEARCH Phone-of-9061 24
+Status FAIL: Num I/O not matching for 9061... Expected:24 Got:233
+
+
+Test case: NON_NDX_SEARCH Phone-of-9063 3
+Status FAIL: Num I/O not matching for 9063... Expected:3 Got:30
+
+
+Test case: NON_NDX_SEARCH Phone-of-9069 62
+Status FAIL: Num I/O not matching for 9069... Expected:62 Got:611
+
+
+Test case: NON_NDX_SEARCH Phone-of-9075 61
+Status FAIL: Num I/O not matching for 9075... Expected:61 Got:602
+
+
+Test case: NON_NDX_SEARCH Phone-of-9090 49
+Status FAIL: Num I/O not matching for 9090... Expected:49 Got:490
+
+
+Test case: NON_NDX_SEARCH Phone-of-9107 5
+Status FAIL: Num I/O not matching for 9107... Expected:5 Got:45
+
+
+Test case: NON_NDX_SEARCH Phone-of-9125 27
+Status FAIL: Num I/O not matching for 9125... Expected:27 Got:262
+
+
+Test case: NON_NDX_SEARCH Phone-of-9130 13
+Status FAIL: Num I/O not matching for 9130... Expected:13 Got:122
+
+
+Test case: NON_NDX_SEARCH Phone-of-9135 38
+Status FAIL: Num I/O not matching for 9135... Expected:38 Got:371
+
+
+Test case: NON_NDX_SEARCH Phone-of-9143 78
+Status FAIL: Num I/O not matching for 9143... Expected:78 Got:776
+
+
+Test case: NON_NDX_SEARCH Phone-of-9144 79
+Status FAIL: Num I/O not matching for 9144... Expected:79 Got:784
+
+
+Test case: NON_NDX_SEARCH Phone-of-9166 12
+Status FAIL: Num I/O not matching for 9166... Expected:12 Got:119
+
+
+Test case: NON_NDX_SEARCH Phone-of-9182 80
+Status FAIL: Num I/O not matching for 9182... Expected:80 Got:799
+
+
+Test case: NON_NDX_SEARCH Phone-of-9184 16
+Status FAIL: Num I/O not matching for 9184... Expected:16 Got:152
+
+
+Test case: NON_NDX_SEARCH Phone-of-9189 35
+Status FAIL: Num I/O not matching for 9189... Expected:35 Got:343
+
+
+Test case: NON_NDX_SEARCH Phone-of-9193 9
+Status FAIL: Num I/O not matching for 9193... Expected:9 Got:87
+
+
+Test case: NON_NDX_SEARCH Phone-of-9195 90
+Status FAIL: Num I/O not matching for 9195... Expected:90 Got:892
+
+
+Test case: NON_NDX_SEARCH Phone-of-9215 22
+Status FAIL: Num I/O not matching for 9215... Expected:22 Got:220
+
+
+Test case: NON_NDX_SEARCH Phone-of-9223 95
+Status FAIL: Num I/O not matching for 9223... Expected:95 Got:941
+
+
+Test case: NON_NDX_SEARCH Phone-of-9235 67
+Status FAIL: Num I/O not matching for 9235... Expected:67 Got:664
+
+
+Test case: NON_NDX_SEARCH Phone-of-9236 93
+Status FAIL: Num I/O not matching for 9236... Expected:93 Got:929
+
+
+Test case: NON_NDX_SEARCH Phone-of-9250 15
+Status FAIL: Num I/O not matching for 9250... Expected:15 Got:150
+
+
+Test case: NON_NDX_SEARCH Phone-of-9252 19
+Status FAIL: Num I/O not matching for 9252... Expected:19 Got:189
+
+
+Test case: NON_NDX_SEARCH Phone-of-9267 77
+Status FAIL: Num I/O not matching for 9267... Expected:77 Got:761
+
+
+Test case: NON_NDX_SEARCH Phone-of-9268 69
+Status FAIL: Num I/O not matching for 9268... Expected:69 Got:689
+
+
+Test case: NON_NDX_SEARCH Phone-of-9269 5
+Status FAIL: Num I/O not matching for 9269... Expected:5 Got:43
+
+
+Test case: NON_NDX_SEARCH Phone-of-9270 2
+Status FAIL: Num I/O not matching for 9270... Expected:2 Got:16
+
+
+Test case: NON_NDX_SEARCH Phone-of-9279 83
+Status FAIL: Num I/O not matching for 9279... Expected:83 Got:830
+
+
+Test case: NON_NDX_SEARCH Phone-of-9282 42
+Status FAIL: Num I/O not matching for 9282... Expected:42 Got:418
+
+
+Test case: NON_NDX_SEARCH Phone-of-9289 40
+Status FAIL: Num I/O not matching for 9289... Expected:40 Got:392
+
+
+Test case: NON_NDX_SEARCH Phone-of-9290 32
+Status FAIL: Num I/O not matching for 9290... Expected:32 Got:314
+
+
+Test case: NON_NDX_SEARCH Phone-of-9293 95
+Status FAIL: Num I/O not matching for 9293... Expected:95 Got:942
+
+
+Test case: NON_NDX_SEARCH Phone-of-9317 70
+Status FAIL: Num I/O not matching for 9317... Expected:70 Got:700
+
+
+Test case: NON_NDX_SEARCH Phone-of-9324 31
+Status FAIL: Num I/O not matching for 9324... Expected:31 Got:308
+
+
+Test case: NON_NDX_SEARCH Phone-of-9351 17
+Status FAIL: Num I/O not matching for 9351... Expected:17 Got:165
+
+
+Test case: NON_NDX_SEARCH Phone-of-9352 71
+Status FAIL: Num I/O not matching for 9352... Expected:71 Got:702
+
+
+Test case: NON_NDX_SEARCH Phone-of-9367 80
+Status FAIL: Num I/O not matching for 9367... Expected:80 Got:796
+
+
+Test case: NON_NDX_SEARCH Phone-of-9386 44
+Status FAIL: Num I/O not matching for 9386... Expected:44 Got:436
+
+
+Test case: NON_NDX_SEARCH Phone-of-9394 52
+Status FAIL: Num I/O not matching for 9394... Expected:52 Got:514
+
+
+Test case: NON_NDX_SEARCH Phone-of-9418 1
+Status FAIL: Num I/O not matching for 9418... Expected:1 Got:2
+
+
+Test case: NON_NDX_SEARCH Phone-of-9429 75
+Status FAIL: Num I/O not matching for 9429... Expected:75 Got:749
+
+
+Test case: NON_NDX_SEARCH Phone-of-9454 2
+Status FAIL: Num I/O not matching for 9454... Expected:2 Got:18
+
+
+Test case: NON_NDX_SEARCH Phone-of-9469 39
+Status FAIL: Num I/O not matching for 9469... Expected:39 Got:388
+
+
+Test case: NON_NDX_SEARCH Phone-of-9504 13
+Status FAIL: Num I/O not matching for 9504... Expected:13 Got:127
+
+
+Test case: NON_NDX_SEARCH Phone-of-9517 81
+Status FAIL: Num I/O not matching for 9517... Expected:81 Got:808
+
+
+Test case: NON_NDX_SEARCH Phone-of-9520 36
+Status FAIL: Num I/O not matching for 9520... Expected:36 Got:351
+
+
+Test case: NON_NDX_SEARCH Phone-of-9527 84
+Status FAIL: Num I/O not matching for 9527... Expected:84 Got:837
+
+
+Test case: NON_NDX_SEARCH Phone-of-9533 90
+Status FAIL: Num I/O not matching for 9533... Expected:90 Got:897
+
+
+Test case: NON_NDX_SEARCH Phone-of-9535 60
+Status FAIL: Num I/O not matching for 9535... Expected:60 Got:598
+
+
+Test case: NON_NDX_SEARCH Phone-of-9537 88
+Status FAIL: Num I/O not matching for 9537... Expected:88 Got:878
+
+
+Test case: NON_NDX_SEARCH Phone-of-9549 78
+Status FAIL: Num I/O not matching for 9549... Expected:78 Got:780
+
+
+Test case: NON_NDX_SEARCH Phone-of-9552 49
+Status FAIL: Num I/O not matching for 9552... Expected:49 Got:482
+
+
+Test case: NON_NDX_SEARCH Phone-of-9559 92
+Status FAIL: Num I/O not matching for 9559... Expected:92 Got:916
+
+
+Test case: NON_NDX_SEARCH Phone-of-9561 51
+Status FAIL: Num I/O not matching for 9561... Expected:51 Got:509
+
+
+Test case: NON_NDX_SEARCH Phone-of-9573 76
+Status FAIL: Num I/O not matching for 9573... Expected:76 Got:756
+
+
+Test case: NON_NDX_SEARCH Phone-of-9578 15
+Status FAIL: Num I/O not matching for 9578... Expected:15 Got:143
+
+
+Test case: NON_NDX_SEARCH Phone-of-9584 62
+Status FAIL: Num I/O not matching for 9584... Expected:62 Got:613
+
+
+Test case: NON_NDX_SEARCH Phone-of-9592 94
+Status FAIL: Num I/O not matching for 9592... Expected:94 Got:932
+
+
+Test case: NON_NDX_SEARCH Phone-of-9594 1
+Status PASS: 
+
+Test case: NON_NDX_SEARCH Phone-of-9611 3
+Status FAIL: Num I/O not matching for 9611... Expected:3 Got:23
+
+
+Test case: NON_NDX_SEARCH Phone-of-9638 93
+Status FAIL: Num I/O not matching for 9638... Expected:93 Got:927
+
+
+Test case: NON_NDX_SEARCH Phone-of-9654 45
+Status FAIL: Num I/O not matching for 9654... Expected:45 Got:445
+
+
+Test case: NON_NDX_SEARCH Phone-of-9668 59
+Status FAIL: Num I/O not matching for 9668... Expected:59 Got:587
+
+
+Test case: NON_NDX_SEARCH Phone-of-9670 93
+Status FAIL: Num I/O not matching for 9670... Expected:93 Got:921
+
+
+Test case: NON_NDX_SEARCH Phone-of-9694 82
+Status FAIL: Num I/O not matching for 9694... Expected:82 Got:817
+
+
+Test case: NON_NDX_SEARCH Phone-of-9703 48
+Status FAIL: Num I/O not matching for 9703... Expected:48 Got:473
+
+
+Test case: NON_NDX_SEARCH Phone-of-9709 38
+Status FAIL: Num I/O not matching for 9709... Expected:38 Got:378
+
+
+Test case: NON_NDX_SEARCH Phone-of-9727 68
+Status FAIL: Num I/O not matching for 9727... Expected:68 Got:672
+
+
+Test case: NON_NDX_SEARCH Phone-of-9734 78
+Status FAIL: Num I/O not matching for 9734... Expected:78 Got:772
+
+
+Test case: NON_NDX_SEARCH Phone-of-9735 54
+Status FAIL: Num I/O not matching for 9735... Expected:54 Got:536
+
+
+Test case: NON_NDX_SEARCH Phone-of-9742 50
+Status FAIL: Num I/O not matching for 9742... Expected:50 Got:494
+
+
+Test case: NON_NDX_SEARCH Phone-of-9757 36
+Status FAIL: Num I/O not matching for 9757... Expected:36 Got:357
+
+
+Test case: NON_NDX_SEARCH Phone-of-9760 80
+Status FAIL: Num I/O not matching for 9760... Expected:80 Got:791
+
+
+Test case: NON_NDX_SEARCH Phone-of-9766 28
+Status FAIL: Num I/O not matching for 9766... Expected:28 Got:276
+
+
+Test case: NON_NDX_SEARCH Phone-of-9781 12
+Status FAIL: Num I/O not matching for 9781... Expected:12 Got:116
+
+
+Test case: NON_NDX_SEARCH Phone-of-9786 36
+Status FAIL: Num I/O not matching for 9786... Expected:36 Got:354
+
+
+Test case: NON_NDX_SEARCH Phone-of-9789 54
+Status FAIL: Num I/O not matching for 9789... Expected:54 Got:531
+
+
+Test case: NON_NDX_SEARCH Phone-of-9837 35
+Status FAIL: Num I/O not matching for 9837... Expected:35 Got:342
+
+
+Test case: NON_NDX_SEARCH Phone-of-9870 23
+Status FAIL: Num I/O not matching for 9870... Expected:23 Got:226
+
+
+Test case: NON_NDX_SEARCH Phone-of-9879 34
+Status FAIL: Num I/O not matching for 9879... Expected:34 Got:340
+
+
+Test case: NON_NDX_SEARCH Phone-of-9891 53
+Status FAIL: Num I/O not matching for 9891... Expected:53 Got:526
+
+
+Test case: NON_NDX_SEARCH Phone-of-9896 44
+Status FAIL: Num I/O not matching for 9896... Expected:44 Got:432
+
+
+Test case: NON_NDX_SEARCH Phone-of-9911 94
+Status FAIL: Num I/O not matching for 9911... Expected:94 Got:939
+
+
+Test case: NON_NDX_SEARCH Phone-of-9912 1
+Status FAIL: Num I/O not matching for 9912... Expected:1 Got:6
+
+
+Test case: NON_NDX_SEARCH Phone-of-9914 22
+Status FAIL: Num I/O not matching for 9914... Expected:22 Got:215
+
+
+Test case: NON_NDX_SEARCH Phone-of-9927 43
+Status FAIL: Num I/O not matching for 9927... Expected:43 Got:424
+
+
+Test case: NON_NDX_SEARCH Phone-of-9941 5
+Status FAIL: Num I/O not matching for 9941... Expected:5 Got:46
+
+
+Test case: NON_NDX_SEARCH Phone-of-9945 34
+Status FAIL: Num I/O not matching for 9945... Expected:34 Got:337
+
+
+Test case: NON_NDX_SEARCH Phone-of-9952 42
+Status FAIL: Num I/O not matching for 9952... Expected:42 Got:411
+
+
+Test case: NON_NDX_SEARCH Phone-of-9958 34
+Status FAIL: Num I/O not matching for 9958... Expected:34 Got:339
+
+
+Test case: NON_NDX_SEARCH Phone-of-9959 23
+Status FAIL: Num I/O not matching for 9959... Expected:23 Got:224
+
+
+Test case: NON_NDX_SEARCH Phone-of-9970 39
+Status FAIL: Num I/O not matching for 9970... Expected:39 Got:387
+
+
+Test case: NON_NDX_SEARCH Phone-of-9976 66
+Status FAIL: Num I/O not matching for 9976... Expected:66 Got:658
+
+
+Test case: NON_NDX_SEARCH Phone-of-9978 12
+Status FAIL: Num I/O not matching for 9978... Expected:12 Got:115
+
+
+Test case: NON_NDX_SEARCH Phone-of-9979 76
+Status FAIL: Num I/O not matching for 9979... Expected:76 Got:759
+
+
+Test case: NON_NDX_SEARCH Phone-of-9988 33
+Status FAIL: Num I/O not matching for 9988... Expected:33 Got:322
+
+
+Test case: NON_NDX_SEARCH Phone-of-9990 36
+Status FAIL: Num I/O not matching for 9990... Expected:36 Got:352
+
+
+Test case: CLOSE 0
+Status PASS: 
+
