@@ -55,6 +55,8 @@ int pds_open( char *repo_name, int rec_size )
 }
 
 int pds_load_ndx(){
+    if(repo_handle.repo_status != PDS_REPO_OPEN)
+        return PDS_FILE_ERROR;
     repo_handle.pds_bst = NULL;
     FILE* np = repo_handle.pds_ndx_fp;
     if (np == NULL){
@@ -85,6 +87,8 @@ int put_rec_by_key( int key, void *rec )
     if (np == NULL){
         return PDS_ADD_FAILED;
     }
+    if(repo_handle.repo_status != PDS_REPO_OPEN)
+        return PDS_FILE_ERROR;
     if (repo_handle.repo_status != PDS_REPO_OPEN){
         return PDS_FILE_ERROR;
     }
@@ -108,6 +112,8 @@ int put_rec_by_key( int key, void *rec )
 
 int get_rec_by_ndx_key( int key, void *rec )
 {
+    if(repo_handle.repo_status != PDS_REPO_OPEN)
+        return PDS_FILE_ERROR;
     int dupkey;
     FILE* fp = repo_handle.pds_data_fp;
     if (fp == NULL){
@@ -131,6 +137,8 @@ int get_rec_by_ndx_key( int key, void *rec )
 }
 
 int get_rec_by_non_ndx_key(void *key, void *rec, int (*matcher)(void *rec, void *key), int *io_count){
+    if(repo_handle.repo_status != PDS_REPO_OPEN)
+        return PDS_FILE_ERROR;
     int count = 0;
     FILE* fp = repo_handle.pds_data_fp;
     fseek(fp, 0, SEEK_SET);
@@ -155,6 +163,8 @@ int get_rec_by_non_ndx_key(void *key, void *rec, int (*matcher)(void *rec, void 
 }
 
 int modify_rec_by_key(int key, void* rec){
+    if(repo_handle.repo_status != PDS_REPO_OPEN)
+        return PDS_FILE_ERROR;
     int dupkey;
     FILE* fp = repo_handle.pds_data_fp;
     if (fp == NULL){
